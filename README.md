@@ -142,7 +142,3 @@ A list of projects built with Bazel.
 
 - [Why Google Stores Billions of Lines of Code in a Single Repository
 ](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
