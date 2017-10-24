@@ -82,6 +82,13 @@
         <p><a href="https://github.com/dart-lang/bazel">https://github.com/dart-lang/bazel</a></p>
       </td>
     </tr>
+    <tr>
+      <td>Protobuf</td>
+      <td>
+        <p><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></p>
+	<p>Guide: <a href="https://blog.bazel.build/2017/02/27/protocol-buffers.html">Protocol Buffers in Bazel</a></p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
