@@ -100,7 +100,7 @@
       <td>Maven</td>
       <td>
         <p><a href="https://github.com/pubref/rules_maven">https://github.com/pubref/rules_maven</a></p>
-	<p>Also see [Migration](#migration) for other Maven migration tooling./p>
+	      <p>Also see <a href="#migration">Migration</a> for other Maven migration tooling.</p>
       </td>
     </tr>
   </tbody>
