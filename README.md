@@ -11,6 +11,7 @@
 - [Rules](#rules)
 - [Tooling](#tooling)
   - [Skylark](#skylark)
+  - [Migration](#migration)
   - [Tulsi](#tulsi)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -100,6 +101,11 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 - [Official documentation](https://docs.bazel.build/versions/master/skylark/language.html)
 - [Skylark in Go](https://github.com/google/skylark)
+
+### Migration
+
+- [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
+- [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for maven artifacts, with scala support.
 
 ### Tulsi
 
