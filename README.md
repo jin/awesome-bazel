@@ -112,6 +112,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 - [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
 - [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for maven artifacts, with scala support.
+- [BUILD_file_generator](https://github.com/bazelbuild/BUILD_file_generator) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 
 ### Tulsi
 
