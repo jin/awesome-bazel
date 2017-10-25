@@ -142,7 +142,7 @@ A list of projects built with Bazel.
 
 ### Videos
 
-- [Building Software At Google Scale](https://www.youtube.com/watch?v=6GCDfoAOKIY) - by Ulf Adams, Helen Altsuhler, David Stanke
+- [Building Software At Google Scale](https://www.youtube.com/watch?v=6GCDfoAOKIY) - by Ulf Adams, Helen Altshuler, David Stanke
 - [Bazel: Google's own build tool, now publicly available in Beta](https://www.youtube.com/watch?v=G-4jqDgILCM) - by Paul Johnston
 - [Bazel at FrOSCon](https://www.youtube.com/watch?v=8p0RquTT69M) - by Klaus Aehlig
 
