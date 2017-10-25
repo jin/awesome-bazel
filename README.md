@@ -96,6 +96,13 @@
 	<p>Guide: <a href="https://blog.bazel.build/2017/02/27/protocol-buffers.html">Protocol Buffers in Bazel</a></p>
       </td>
     </tr>
+    <tr>
+      <td>Maven</td>
+      <td>
+        <p><a href="https://github.com/pubref/rules_maven">https://github.com/pubref/rules_maven</a></p>
+	<p>Also see [Migration](#migration) for other Maven migration tooling./p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -111,7 +118,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 ### Migration
 
 - [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
-- [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for maven artifacts, with scala support.
+- [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [BUILD_file_generator](https://github.com/bazelbuild/BUILD_file_generator) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 
 ### Tulsi
