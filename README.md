@@ -1,6 +1,12 @@
 # Awesome Bazel
 
-<p align="center"><img height="300" src="https://bazel.build/images/bazel-icon.svg"></img></p>
+
+
+<p align="center">
+	<img height="300" src="https://bazel.build/images/bazel-icon.svg"></img>
+</p>
+<h3 align="center">{Fast, Correct} - Choose two</h3>
+
 
 > A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooling) and [resources](#resources).
 
