@@ -19,6 +19,7 @@
   - [Skylark](#skylark)
   - [Migration](#migration)
   - [Tulsi](#tulsi)
+  - [IDE Integration](#ide)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
   - [Projects](#projects)
@@ -139,6 +140,11 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 An Xcode Project Generator For Bazel.
 
 - [Official repository](https://github.com/bazelbuild/tulsi)
+
+### IDE Integration
+
+- IntelliJ plugin (compatible with Android Studio) - [https://ij.bazel.build](https://ij.bazel.build)
+- Eclipse plugin - [https://github.com/bazelbuild/eclipse](https://github.com/bazelbuild/eclipse)
 
 ## Resources
 
