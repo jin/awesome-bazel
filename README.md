@@ -19,7 +19,7 @@
   - [Skylark](#skylark)
   - [Migration](#migration)
   - [Tulsi](#tulsi)
-  - [IDE Integration](#ide)
+  - [IDE plugins](#ide)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
   - [Projects](#projects)
@@ -141,7 +141,7 @@ An Xcode Project Generator For Bazel.
 
 - [Official repository](https://github.com/bazelbuild/tulsi)
 
-### IDE Integration
+### IDE
 
 - IntelliJ plugin (compatible with Android Studio) - [https://ij.bazel.build](https://ij.bazel.build)
 - Eclipse plugin - [https://github.com/bazelbuild/eclipse](https://github.com/bazelbuild/eclipse)
