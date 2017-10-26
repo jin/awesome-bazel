@@ -143,8 +143,8 @@ An Xcode Project Generator For Bazel.
 
 ### IDE
 
-- IntelliJ plugin (compatible with Android Studio) - [https://ij.bazel.build](https://ij.bazel.build)
-- Eclipse plugin - [https://github.com/bazelbuild/eclipse](https://github.com/bazelbuild/eclipse)
+- [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
+- [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 
 ## Resources
 
