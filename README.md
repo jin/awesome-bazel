@@ -147,6 +147,7 @@ A list of projects built with Bazel.
 
 - [What Angular is doing with Bazel and Closure](https://medium.com/@Jakeherringbone/what-angular-is-doing-with-bazel-and-closure-21f526f64a34)
 - [Building Docker Images Without Docker](https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9)
+- [Bazel Golang Hello World](https://chrislovecnm.com/golang/bazel/bazel-hello-world/)
 
 ### Videos
 
