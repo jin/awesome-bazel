@@ -24,6 +24,7 @@
   - [Projects](#projects)
   - [Articles](#articles)
   - [Videos](#videos)
+  - [Slides](#slides)
   - [Blogs](#blogs)
   - [Community](#community)
   
@@ -160,12 +161,23 @@ A list of projects built with Bazel.
 - [What Angular is doing with Bazel and Closure](https://medium.com/@Jakeherringbone/what-angular-is-doing-with-bazel-and-closure-21f526f64a34)
 - [Building Docker Images Without Docker](https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9)
 - [Bazel Golang Hello World](https://chrislovecnm.com/golang/bazel/bazel-hello-world/)
+- [Migrating from Gradle to Bazel](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel/)
+- [Benchmarking the Bazel build system on real-life C++](http://nicolovaligi.com/benchmark-bazel-build-cpp.html)
+- [Migrating Gypsum and CodeSwitch to Bazel](http://jayconrod.com/posts/97/migrating-to-bazel-part-1)
 
 ### Videos
 
+- [Bazel: Google's Extensible, Multilingual, Scalable Build System DevTools@Scale2017](https://www.youtube.com/watch?v=-M0FoRNpF8s) - By Dmitry Lomov
+- [Building Go with Bazel at Golang UK Conference 2017](https://www.youtube.com/watch?v=2TKxuERTnks) - by Paul Bellamy
 - [Building Software At Google Scale](https://www.youtube.com/watch?v=6GCDfoAOKIY) - by Ulf Adams, Helen Altshuler, David Stanke
 - [Bazel: Google's own build tool, now publicly available in Beta](https://www.youtube.com/watch?v=G-4jqDgILCM) - by Paul Johnston
 - [Bazel at FrOSCon](https://www.youtube.com/watch?v=8p0RquTT69M) - by Klaus Aehlig
+- [Building Python with Bazel](https://www.youtube.com/watch?v=i2Gu7lMVeEw) - by Benjamin Peterson
+- [Bazel at the Dart Developer Summit 2016](https://www.youtube.com/watch?v=zZnGUknpFMM) - by Damien Martin-Guillerez)
+
+### Slides
+
+- [Building Gerrit with Bazel at Gerrit User Conference 2016](http://ostrovsky.org/gerrit/bazel-build-gerrit/)
 
 ### Blogs
 
@@ -181,4 +193,4 @@ A list of projects built with Bazel.
 ### Miscelleanous
 
 - [Why Google Stores Billions of Lines of Code in a Single Repository
-](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) ([Video](https://www.youtube.com/watch?v=W71BTkUbdqE) at @Scale 2015)
