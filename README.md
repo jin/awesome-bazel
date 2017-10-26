@@ -150,10 +150,16 @@ An Xcode Project Generator For Bazel.
 
 ### Tutorials
 
+#### Official
+
 - [Java](https://docs.bazel.build/versions/master/tutorial/java.html)
 - [C++](https://docs.bazel.build/versions/master/tutorial/cpp.html)
 - [Android](https://docs.bazel.build/versions/master/tutorial/android-app.html)
 - [iOS](https://docs.bazel.build/versions/master/tutorial/ios-app.html)
+
+#### Community
+
+- [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
 
 ### Projects
 
