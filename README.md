@@ -109,6 +109,12 @@
         <p><a href="https://github.com/bazelbuild/rules_docker">https://github.com/bazelbuild/rules_docker</a></p>
       </td>
     </tr>
+    <tr>
+      <td>D</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
