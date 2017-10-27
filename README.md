@@ -18,8 +18,8 @@
 - [Tooling](#tooling)
   - [Skylark](#skylark)
   - [Migration](#migration)
-  - [Tulsi](#tulsi)
-  - [IDE plugins](#ide)
+  - [Editor plugins](#editors)
+  - [Misc](#misc)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
   - [Projects](#projects)
@@ -28,6 +28,8 @@
   - [Slides](#slides)
   - [Blogs](#blogs)
   - [Community](#community)
+  - [Misc](#misc)
+
   
 ## Rules
 
@@ -44,9 +46,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>Java</td>
+      <td>Apple</td>
       <td>
-        <p><a href="https://docs.bazel.build/versions/master/be/java.html">https://docs.bazel.build/versions/master/be/java.html</a></p>
+        <p><a href="https://github.com/bazelbuild/rules_apple">https://github.com/bazelbuild/rules_apple</a></p>
       </td>
     </tr>
     <tr>
@@ -56,15 +58,21 @@
       </td>
     </tr>
     <tr>
-      <td>Python</td>
+      <td>D</td>
       <td>
-        <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></p>
+        <p><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></p>
       </td>
     </tr>
     <tr>
-      <td>Scala</td>
+      <td>Dart</td>
       <td>
-        <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
+        <p><a href="https://github.com/dart-lang/bazel">https://github.com/dart-lang/bazel</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_docker">https://github.com/bazelbuild/rules_docker</a></p>
       </td>
     </tr>
     <tr>
@@ -74,9 +82,9 @@
       </td>
     </tr>
     <tr>
-      <td>Rust</td>
+      <td>Java</td>
       <td>
-        <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
+        <p><a href="https://docs.bazel.build/versions/master/be/java.html">https://docs.bazel.build/versions/master/be/java.html</a></p>
       </td>
     </tr>
     <tr>
@@ -86,9 +94,9 @@
       </td>
     </tr>
     <tr>
-      <td>Dart</td>
+      <td>OCaml</td>
       <td>
-        <p><a href="https://github.com/dart-lang/bazel">https://github.com/dart-lang/bazel</a></p>
+        <p><a href="https://github.com/jin/rules_ocaml">https://github.com/jin/rules_ocaml</a></p>
       </td>
     </tr>
     <tr>
@@ -99,15 +107,21 @@
       </td>
     </tr>
     <tr>
-      <td>Docker</td>
+      <td>Python</td>
       <td>
-        <p><a href="https://github.com/bazelbuild/rules_docker">https://github.com/bazelbuild/rules_docker</a></p>
+        <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></p>
       </td>
     </tr>
     <tr>
-      <td>D</td>
+      <td>Rust</td>
       <td>
-        <p><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></p>
+        <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>Scala</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
       </td>
     </tr>
   </tbody>
@@ -121,6 +135,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 - [Official documentation](https://docs.bazel.build/versions/master/skylark/language.html)
 - [Skylark in Go](https://github.com/google/skylark)
+- [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
 
 ### Migration
 
@@ -129,16 +144,12 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [BUILD_file_generator](https://github.com/bazelbuild/BUILD_file_generator) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
 
-### Tulsi
+### Editors
 
-An Xcode Project Generator For Bazel.
-
-- [Official repository](https://github.com/bazelbuild/tulsi)
-
-### IDE
-
+- [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
 - [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
+- [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 
 ### BUILD
 
@@ -148,6 +159,9 @@ An Xcode Project Generator For Bazel.
 - Buildozer - Manipulate BUILD file contents from the command line
 - unused_deps - Find unneeded dependencies in BUILD files
 
+### Misc
+
+- [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
 
 ## Resources
 
@@ -206,7 +220,7 @@ A list of projects built with Bazel.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bazel)
 - [Mailing list](https://groups.google.com/forum/#!forum/bazel-discuss)
 
-### Miscelleanous
+### Misc
 
 - [Why Google Stores Billions of Lines of Code in a Single Repository
 ](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) ([Video](https://www.youtube.com/watch?v=W71BTkUbdqE) at @Scale 2015)
