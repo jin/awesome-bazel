@@ -99,13 +99,6 @@
       </td>
     </tr>
     <tr>
-      <td>Maven</td>
-      <td>
-        <p><a href="https://github.com/pubref/rules_maven">https://github.com/pubref/rules_maven</a></p>
-	<p>Also see <a href="#migration">Migration</a> for other Maven migration tooling.</p>
-      </td>
-    </tr>
-    <tr>
       <td>Docker</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_docker">https://github.com/bazelbuild/rules_docker</a></p>
@@ -134,6 +127,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
 - [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [BUILD_file_generator](https://github.com/bazelbuild/BUILD_file_generator) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
+- [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
 
 ### Tulsi
 
