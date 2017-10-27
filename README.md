@@ -140,6 +140,15 @@ An Xcode Project Generator For Bazel.
 - [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 
+### BUILD
+
+[bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) contains:
+
+- Buildifier - Prettifier for BUILD files
+- Buildozer - Manipulate BUILD file contents from the command line
+- unused_deps - Find unneeded dependencies in BUILD files
+
+
 ## Resources
 
 ### Tutorials
@@ -161,6 +170,7 @@ A list of projects built with Bazel.
 
 - [Tensorflow](https://github.com/tensorflow/tensorflow)
 - [Abseil C++](https://github.com/abseil/abseil-cpp)
+- [Distroless](https://github.com/GoogleCloudPlatform/distroless)
 
 ### Articles
 
