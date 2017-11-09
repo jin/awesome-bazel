@@ -183,9 +183,10 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 A list of projects built with Bazel.
 
-- [Tensorflow](https://github.com/tensorflow/tensorflow)
-- [Abseil C++](https://github.com/abseil/abseil-cpp)
-- [Distroless](https://github.com/GoogleCloudPlatform/distroless)
+- [trunk](https://github.com/bazelment/trunk) - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
+- [Tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning.
+- [Abseil C++](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+- [Distroless](https://github.com/GoogleCloudPlatform/distroless) -  Language focused docker images, minus the operating system.
 
 ### Articles
 
