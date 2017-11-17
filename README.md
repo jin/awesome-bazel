@@ -82,6 +82,13 @@
       </td>
     </tr>
     <tr>
+      <td>Haskell</td>
+      <td>
+        <p><a href="https://github.com/tweag/rules_haskell">https://github.com/tweag/rules_haskell</a></p>
+      </td>
+    </tr>
+    <tr>
+    <tr>
       <td>Java</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/java.html">https://docs.bazel.build/versions/master/be/java.html</a></p>
