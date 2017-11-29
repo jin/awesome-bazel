@@ -209,6 +209,7 @@ A list of projects built with Bazel.
 
 ### Videos
 
+- [GothamGo 2017: A Go implementation of the Skylark Configuration Language](https://www.youtube.com/watch?v=9P_YKVhncWI) - by Alan Donovan
 - [Bazel: Google's Extensible, Multilingual, Scalable Build System DevTools@Scale2017](https://www.youtube.com/watch?v=-M0FoRNpF8s) - By Dmitry Lomov
 - [Building Go with Bazel at Golang UK Conference 2017](https://www.youtube.com/watch?v=2TKxuERTnks) - by Paul Bellamy
 - [Building Software At Google Scale](https://www.youtube.com/watch?v=6GCDfoAOKIY) - by Ulf Adams, Helen Altshuler, David Stanke
