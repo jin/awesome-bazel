@@ -145,6 +145,10 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
 - [skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
 
+#### Projects written with Skylark extensions
+
+- [android-scala-bazel: A minimal Android app using Scala and Bazel](https://github.com/gregghz/android-scala-bazel)
+
 ### Migration
 
 - [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
