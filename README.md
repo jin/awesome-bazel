@@ -101,6 +101,12 @@
       </td>
     </tr>
     <tr>
+      <td>Nixpkgs</td>
+      <td>
+        <p><a href="https://github.com/tweag/rules_nixpkgs">https://github.com/tweag/rules_nixpkgs</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>OCaml</td>
       <td>
         <p><a href="https://github.com/jin/rules_ocaml">https://github.com/jin/rules_ocaml</a></p>
