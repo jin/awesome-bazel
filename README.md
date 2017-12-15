@@ -85,6 +85,7 @@
       <td>Haskell</td>
       <td>
         <p><a href="https://github.com/tweag/rules_haskell">https://github.com/tweag/rules_haskell</a></p>
+	<p><a href="https://github.com/jml/rules_haskell">https://github.com/jml/rules_haskell</a></p>
       </td>
     </tr>
     <tr>
