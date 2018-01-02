@@ -245,7 +245,7 @@ A list of projects built with Bazel.
 
 ### Slides
 
-- [Building Gerrit with Bazel at Gerrit User Conference 2016](http://ostrovsky.org/gerrit/bazel-build-gerrit/)
+- [Building Gerrit with Bazel at Gerrit User Conference 2016](http://ostrovsky.org/gerrit/bazel-build-gerrit/) - David Ostrovsky
 
 ### Blogs
 
