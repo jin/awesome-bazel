@@ -88,6 +88,11 @@
       </td>
     </tr>
     <tr>
+      <td>Hugo</td>
+      <td>
+        <p><a href="https://github.com/stackb/rules_hugo">https://github.com/stackb/rules_hugo</a></p>
+      </td>
+    </tr>    
     <tr>
       <td>Java</td>
       <td>
