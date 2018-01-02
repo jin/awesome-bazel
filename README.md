@@ -118,6 +118,12 @@
       </td>
     </tr>
     <tr>
+      <td>OpenAPI/Swagger</td>
+      <td>
+        <p><a href="https://github.com/meetup/rules_openapi">https://github.com/meetup/rules_openapi</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>Protobuf</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></p>
