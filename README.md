@@ -217,6 +217,7 @@ A list of projects built with Bazel.
 - [Tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning.
 - [Abseil C++](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 - [Distroless](https://github.com/GoogleCloudPlatform/distroless) -  Language focused docker images, minus the operating system.
+- [Subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 
 ### Articles
 
