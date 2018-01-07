@@ -134,6 +134,7 @@
       <td>Python</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></p>
+	<p><a href="https://github.com/benley/bazel_rules_pex">Python PEX rules</a></p>
       </td>
     </tr>
     <tr>
