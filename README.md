@@ -192,7 +192,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 ### Misc
 
 - [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
-- [dazel](https://github.com/nadirizr/dazel) - Run Google's bazel inside a docker container via a seamless proxy.
+- [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
 - [wtool](https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool) - Tool for adding `go_repository` to WORKSPACE
 
 ## Resources
