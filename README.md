@@ -154,6 +154,12 @@
 
 ## Tooling
 
+### General
+
+- [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
+- [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
+- [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
+
 ### Skylark
 
 Skylark is Bazel's domain-specific language for writing BUILD definitions and rules.
@@ -161,7 +167,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Official documentation](https://docs.bazel.build/versions/master/skylark/language.html)
 - [Skylark in Go](https://github.com/google/skylark)
 - [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
-- [skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
+- [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
 
 #### Projects written with Skylark extensions
 
@@ -189,10 +195,8 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - Buildozer - Manipulate BUILD file contents from the command line
 - unused_deps - Find unneeded dependencies in BUILD files
 
-### Misc
+### Go
 
-- [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
-- [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
 - [wtool](https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool) - Tool for adding `go_repository` to WORKSPACE
 
 ## Resources
