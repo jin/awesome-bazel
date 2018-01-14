@@ -58,6 +58,12 @@
       </td>
     </tr>
     <tr>
+      <td>CocoaPods</td>
+      <td>
+        <p><a href="https://github.com/pinterest/PodToBUILD">https://github.com/pinterest/PodToBUILD</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>D</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></p>
