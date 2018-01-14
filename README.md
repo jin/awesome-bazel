@@ -159,6 +159,7 @@
 - [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
 - [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
 - [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
+- [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
 
 ### Skylark
 
@@ -172,6 +173,10 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 #### Projects written with Skylark extensions
 
 - [android-scala-bazel: A minimal Android app using Scala and Bazel](https://github.com/gregghz/android-scala-bazel)
+
+### Remote caching and execution
+
+- [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
 
 ### Migration
 
