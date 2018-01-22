@@ -179,6 +179,8 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 #### Projects written with Skylark extensions
 
 - [android-scala-bazel: A minimal Android app using Scala and Bazel](https://github.com/gregghz/android-scala-bazel)
+- [angular-bazel-example: Building an Angular application with Bazel](https://github.com/alexeagle/angular-bazel-example)
+	- ABC: Angular with Bazel and Closure [https://g.co/ng/abc](https://g.co/ng/abc)
 
 ### Remote caching and execution
 
