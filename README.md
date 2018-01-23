@@ -62,6 +62,9 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>CocoaPods</td>
       <td>
         <p><a href="https://github.com/pinterest/PodToBUILD">https://github.com/pinterest/PodToBUILD</a></p>
+	<ul>
+          <li><a href="https://github.com/pinterest/PodToBUILD#new_pod_repository-attribute-reference">new_pod_repository</a></li>
+	</ul>
       </td>
     </tr>
     <tr>
