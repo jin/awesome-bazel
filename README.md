@@ -149,12 +149,12 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>
         <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
         <ul>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_library">rust_library</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_binary">rust_binary</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_test">rust_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_bench_test">rust_bench_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_doc">rust_doc</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_doc_test">rust_doc_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_library">rust_library</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_binary">rust_binary</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_test">rust_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_bench_test">rust_bench_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc">rust_doc</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc_test">rust_doc_test</a></li>
         </ul>
       </td>
     </tr>
@@ -163,10 +163,19 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>
         <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
         <ul>
-          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_library">scala_library/scala_macro_library</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_binary">scala_binary</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_test">scala_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scalapb_proto_library">scalapb_proto_library</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala#scala_library">scala_library/scala_macro_library</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala#scala_binary">scala_binary</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala#scala_test">scala_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala#scalapb_proto_library">scalapb_proto_library</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_typescript">https://github.com/bazelbuild/rules_typescript</a></p>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_typescript#compiling-typescript-ts_library">ts_library</a></li>
         </ul>
       </td>
     </tr>
