@@ -92,6 +92,16 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>Haskell</td>
       <td>
         <p><a href="https://github.com/tweag/rules_haskell">https://github.com/tweag/rules_haskell</a></p>
+	<ul>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_repositories">haskell_repositories</a></li>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_library">haskell_library</a></li>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_binary">haskell_binary</a></li>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_test">haskell_test</a></li>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_doc">haskell_doc</a></li>
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_toolchain">haskell_toolchain</a></li>	
+          <li><a href="https://github.com/tweag/rules_haskell#haskell_cc_import">haskell_cc_import</a></li>		
+          <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
+	</ul>
       </td>
     </tr>
     <tr>
