@@ -153,6 +153,12 @@
       <td>Scala</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_library">scala_library/scala_macro_library</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_binary">scala_binary</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scala_test">scala_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_scala/blob/master/README.md#scalapb_proto_library">scalapb_proto_library</a></li>
+        </ul>
       </td>
     </tr>
   </tbody>
