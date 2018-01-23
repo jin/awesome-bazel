@@ -147,6 +147,14 @@
       <td>Rust</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_library">rust_library</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_binary">rust_binary</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_test">rust_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_bench_test">rust_bench_test</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_doc">rust_doc</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_rust/blob/master/README.md#rust_doc_test">rust_doc_test</a></li>
+        </ul>
       </td>
     </tr>
     <tr>
