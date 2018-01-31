@@ -122,8 +122,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
     <tr>
       <td>Kotlin</td>
       <td>
-        <p><a href="https://github.com/pubref/rules_kotlin">https://github.com/pubref/rules_kotlin</a></p>
-        <p><a href="https://github.com/hsyed/rules_kotlin">https://github.com/hsyed/rules_kotlin</a></p>
+        <p><a href="https://github.com/bazelbuild/rules_kotlin">https://github.com/bazelbuild/rules_kotlin</a></p>
       </td>
     </tr>
     <tr>
