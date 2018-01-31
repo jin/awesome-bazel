@@ -154,8 +154,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
     <tr>
       <td>Python</td>
       <td>
-        <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></p>
-	<p><a href="https://github.com/benley/bazel_rules_pex">Python PEX rules</a></p>
+        <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a>
+	<p><a href="https://github.com/bazelbuild/rules_python/">https://github.com/bazelbuild/rules_python/</a></p>
+	<p>Python PEX rules: <a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a></p>
+	<p>Python rules with PyPI package support: <a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a></p>
       </td>
     </tr>
     <tr>
