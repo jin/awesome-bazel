@@ -171,6 +171,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc">rust_doc</a></li>
           <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc_test">rust_doc_test</a></li>
         </ul>
+	<p>Bazel BUILD generation for Rust Crates: <a href="https://github.com/google/cargo-raze">https://github.com/google/cargo-raze</a></p>
       </td>
     </tr>
     <tr>
