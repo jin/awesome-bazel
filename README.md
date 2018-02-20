@@ -206,6 +206,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 - [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
 - [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
 - [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
+- [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
 
 ### Skylark
 
