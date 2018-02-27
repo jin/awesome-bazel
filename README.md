@@ -241,6 +241,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
+- [Emacs bazel-mode](https://github.com/codesuki/bazel-mode)
 
 ### BUILD
 
