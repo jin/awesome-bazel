@@ -69,6 +69,16 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
+      <td>OCI Containers</td>
+      <td>
+        <p><a href="https://github.com/guymers/bazel_rules_container">https://github.com/guymers/bazel_rules_container</a></p>
+	<ul>
+	  <li><a href="https://guymers.github.io/bazel_rules_container/">Skydoc</a></li>
+	</ul>
+	<p><a href="https://github.com/guymers/containers_by_bazel">https://github.com/guymers/containers_by_bazel</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>D</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></p>
@@ -188,6 +198,15 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
+      <td>Twirl</td>
+      <td>
+        <p><a href="https://github.com/lucidsoftware/rules_twirl">https://github.com/lucidsoftware/rules_twirl</a></p>
+        <ul>
+          <li><a href="https://lucidsoftware.github.io/rules_twirl/">Skydoc</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>TypeScript</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_typescript">https://github.com/bazelbuild/rules_typescript</a></p>
@@ -208,7 +227,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 - [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
 - [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
 - [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
-- [bazel-msbuild](https://github.com/tmandry/bazel-msbuild/) - Generate Visual Studio projects that uses Bazel for the actual building.
+- [bazel-msbuild](https://github.com/tmandry/bazel-msbuild/) - Generate Visual Studio projects that uses Bazel for the actual building
+- [heroku-buildpack-bazel](https://github.com/google/heroku-buildpack-bazel) - Heroku buildpack for Bazel
 
 ### Skylark
 
@@ -218,6 +238,8 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Skylark in Go](https://github.com/google/skylark)
 - [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
+- [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
+
 
 #### Projects written with Skylark extensions
 
@@ -283,6 +305,7 @@ A list of projects built with Bazel.
 
 ### Articles
 
+- [Production Code Splitting With Bazel](https://medium.com/@gregmagolan/production-code-splitting-with-bazel-8a7da242bf83) - Greg Magolan (Google)
 - [Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
 - [Managing a Go monorepo with Bazel](https://filipnikolovski.com/managing-go-monorepo-with-bazel/) - Filip Nikolovski (InPlayer)
 - [How to Create a Persistent Worker for Bazel](https://medium.com/@mmorearty/how-to-create-a-persistent-worker-for-bazel-7738bba2cabb) - Mike Morearty (Asana)
