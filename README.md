@@ -155,6 +155,12 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
+      <td>PHP</td>
+      <td>
+        <p><a href="https://github.com/kburnik/php_codebase">https://github.com/kburnik/php_codebase</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>Protobuf</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></p>
