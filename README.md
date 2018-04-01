@@ -285,6 +285,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 - [Emacs bazel-mode](https://github.com/codesuki/bazel-mode)
+- [VSCode](https://github.com/dprogm/vscode-bazel-tools)
 
 ### BUILD
 
