@@ -53,7 +53,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
-      <td>Antlr</td>
+      <td>ANTLR</td>
       <td>
         <p><a href="https://github.com/marcohu/rules_antlr">https://github.com/marcohu/rules_antlr</a></p>
       </td>
