@@ -63,6 +63,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></p>
 	<p>C++ CROSSTOOL using Chromium's LLVM toolchain: <a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a></p>
+	<p>Boost libraries rules: <a href="https://github.com/nelhage/rules_boost">https://github.com/nelhage/rules_boost</a></p>
       </td>
     </tr>
     <tr>
