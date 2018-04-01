@@ -227,6 +227,12 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>Web (HTML, CSS, JS, assets)</td>
+      <td>
+        <p><a href="https://github.com/quittle/rules_web">https://github.com/quittle/rules_web</a></p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
