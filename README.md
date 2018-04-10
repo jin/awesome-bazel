@@ -182,6 +182,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 	<p>Python PEX rules: <a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a></p>
 	<p>Python rules with PyPI package support: <a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a></p>
 	<p>Python wheel rules: <a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a></p>
+	<p>pazel - generate Bazel BUILD files for Python: <a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a></p>
       </td>
     </tr>
     <tr>
