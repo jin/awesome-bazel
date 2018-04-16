@@ -45,7 +45,13 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <th colspan="1">Repository/Documentation</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody> 
+    <tr>
+      <td>.NET (C#, Nuget)</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_dotnet">https://github.com/bazelbuild/rules_dotnet</a></p>
+      </td>
+    </tr>
     <tr>
       <td>Apple</td>
       <td>
