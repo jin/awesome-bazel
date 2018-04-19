@@ -284,6 +284,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
+- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
 
 ### Editors
 
