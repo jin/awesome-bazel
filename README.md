@@ -254,7 +254,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 - [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
 - [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
 - [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
-- [bazel-msbuild](https://github.com/tmandry/bazel-msbuild/) - Generate Visual Studio projects that uses Bazel for the actual building
+- [Lavender](https://github.com/tmandry/lavender) - Generate Visual Studio projects that uses Bazel for the actual building
 - [heroku-buildpack-bazel](https://github.com/google/heroku-buildpack-bazel) - Heroku buildpack for Bazel
 
 ### Skylark
