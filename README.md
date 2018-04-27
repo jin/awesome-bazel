@@ -129,7 +129,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/tweag/rules_haskell#haskell_cc_import">haskell_cc_import</a></li>		
           <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
 	</ul>
-      </td>
+	<p>Hazel - Automatic Bazel rules for third-party Haskell dependencies: <a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a></p>
+      </td>   
     </tr>
     <tr>
       <td>Hugo</td>
