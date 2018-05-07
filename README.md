@@ -130,6 +130,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
 	</ul>
 	<p>Hazel - Automatic Bazel rules for third-party Haskell dependencies: <a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a></p>
+	<p>cabal2bazel - Fetch Cabal packages from Hackage and import as Bazel packages: <a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a></p>
       </td>   
     </tr>
     <tr>
