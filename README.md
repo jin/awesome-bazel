@@ -130,7 +130,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
 	</ul>
 	<p><a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a> - Automatic Bazel rules for third-party Haskell dependencies</p>
-	<p><a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a>< Fetch Cabal packages from Hackage and import as Bazel packages/p>
+	<p><a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a> - Fetch Cabal packages from Hackage and import as Bazel packages</p>
       </td>   
     </tr>
     <tr>
@@ -191,6 +191,12 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 	<p><a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a> - Python rules with PyPI package support</p>
 	<p><a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a> - Python wheel rules</p>
 	<p><a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a> - generate Bazel BUILD files for Python</p>
+      </td>
+    </tr>
+    <tr>
+      <td>R</td>
+      <td>
+        <p><a href="https://github.com/grailbio/rules_r">https://github.com/grailbio/rules_r</a></p>
       </td>
     </tr>
     <tr>
