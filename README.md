@@ -194,6 +194,12 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
+      <td>Ruby</td>
+      <td>
+        <p><a href="https://github.com/yugui/rules_ruby">hhttps://github.com/yugui/rules_ruby</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>Rust</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
