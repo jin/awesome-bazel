@@ -68,8 +68,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>C++</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></p>
-	<p>C++ CROSSTOOL using Chromium's LLVM toolchain: <a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a></p>
-	<p>Boost libraries rules: <a href="https://github.com/nelhage/rules_boost">https://github.com/nelhage/rules_boost</a></p>
+	<p><a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a> - C++ CROSSTOOL using Chromium's LLVM toolchain</p>
+	<p><a href="https://github.com/nelhage/rules_boost">https://github.com/nelhage/rules_boost</a> - Boost libraries rules</p>
       </td>
     </tr>
     <tr>
@@ -129,8 +129,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/tweag/rules_haskell#haskell_cc_import">haskell_cc_import</a></li>		
           <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
 	</ul>
-	<p>Hazel - Automatic Bazel rules for third-party Haskell dependencies: <a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a></p>
-	<p>cabal2bazel - Fetch Cabal packages from Hackage and import as Bazel packages: <a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a></p>
+	<p><a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a> - Automatic Bazel rules for third-party Haskell dependencies</p>
+	<p><a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a>< Fetch Cabal packages from Hackage and import as Bazel packages/p>
       </td>   
     </tr>
     <tr>
@@ -187,16 +187,16 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a>
 	<p><a href="https://github.com/bazelbuild/rules_python/">https://github.com/bazelbuild/rules_python/</a></p>
-	<p>Python PEX rules: <a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a></p>
-	<p>Python rules with PyPI package support: <a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a></p>
-	<p>Python wheel rules: <a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a></p>
-	<p>pazel - generate Bazel BUILD files for Python: <a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a></p>
+	<p><a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a> Python PEX rules</p>
+	<p><a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a> - Python rules with PyPI package support</p>
+	<p><a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a> - Python wheel rules</p>
+	<p><a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a> - generate Bazel BUILD files for Python</p>
       </td>
     </tr>
     <tr>
       <td>Ruby</td>
       <td>
-        <p><a href="https://github.com/yugui/rules_ruby">hhttps://github.com/yugui/rules_ruby</a></p>
+        <p><a href="https://github.com/yugui/rules_ruby">https://github.com/yugui/rules_ruby</a></p>
       </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
           <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc">rust_doc</a></li>
           <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc_test">rust_doc_test</a></li>
         </ul>
-	<p>Bazel BUILD generation for Rust Crates: <a href="https://github.com/google/cargo-raze">https://github.com/google/cargo-raze</a></p>
+	<p><a href="https://github.com/google/cargo-raze">https://github.com/google/cargo-raze</a> - Bazel BUILD generation for Rust Crates</p>
       </td>
     </tr>
     <tr>
