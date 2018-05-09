@@ -333,6 +333,10 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Android](https://docs.bazel.build/versions/master/tutorial/android-app.html)
 - [iOS](https://docs.bazel.build/versions/master/tutorial/ios-app.html)
 
+#### Codelabs
+
+- [Building Android Apps with Bazel](https://codelabs.developers.google.com/codelabs/bazel-android-intro/index.html)
+
 #### Community
 
 - [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
