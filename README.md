@@ -353,6 +353,7 @@ A list of projects built with Bazel.
 
 ### Articles
 
+- [(In Japanese) Building C++ with Bazel / C++ビルド環境としてのBazel導入試行](http://blog.matsuokah.jp/entry/2015/12/15/080000)
 - [Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 - [Production Code Splitting With Bazel](https://medium.com/@gregmagolan/production-code-splitting-with-bazel-8a7da242bf83) - Greg Magolan (Google)
 - [Build large polyglot projects with Bazel... now with Haskell support](https://www.tweag.io/posts/2018-02-28-bazel-haskell.html)
