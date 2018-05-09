@@ -285,7 +285,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 #### Projects written with Skylark extensions
 
-- [android-scala-bazel: A minimal Android app using Scala and Bazel](https://github.com/gregghz/android-scala-bazel)
+- [android-scala-bazel](https://github.com/gregghz/android-scala-bazel) - A minimal Android app using Scala and Bazel
 - [angular-bazel-example: Building an Angular application with Bazel](https://github.com/alexeagle/angular-bazel-example)
 	- ABC: Angular with Bazel and Closure [https://g.co/ng/abc](https://g.co/ng/abc)
 
@@ -295,8 +295,8 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 ### Migration
 
-- [migration-tooling](https://github.com/bazelbuild/migration-tooling/) - Migrate an existing Maven project to Bazel.
-- [bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
+- [https://github.com/bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
+- [https://github.com/johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
@@ -345,11 +345,11 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 A list of projects built with Bazel.
 
-- [trunk](https://github.com/bazelment/trunk) - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
-- [Tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning.
-- [Abseil C++](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
-- [Distroless](https://github.com/GoogleCloudPlatform/distroless) -  Language focused docker images, minus the operating system.
-- [Subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+- [https://github.com/bazelment/trunk]() - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
+- [https://github.com/tensorflow/tensorflow]() - Computation using data flow graphs for scalable machine learning.
+- [https://github.com/abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+- [https://github.com/GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) - Language focused docker images, minus the operating system.
+- [https://github.com/google/subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 
 ### Articles
 
