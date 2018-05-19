@@ -223,6 +223,9 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
     </tr>
     <tr>
       <td>Scala</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
+      </td>
     </tr>
     <tr>
       <td>Twirl</td>
