@@ -165,6 +165,15 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       </td>
     </tr>
     <tr>
+      <td>Node.js</td>
+      <td>
+        <p><a href="https://github.com/bazelbuild/rules_nodejs">https://github.com/bazelbuild/rules_nodejs</a></p>
+	<p><a href="https://github.com/dropbox/rules_node">https://github.com/dropbox/rules_node</a></p>
+	<p><a href="https://github.com/pubref/rules_node">https://github.com/pubref/rules_node</a></p>
+	<p><a href="https://github.com/zenclabs/bazel-node">https://github.com/zenclabs/bazel-node</a></p>
+      </td>
+    </tr>
+    <tr>
       <td>OCaml</td>
       <td>
         <p><a href="https://github.com/jin/rules_ocaml">https://github.com/jin/rules_ocaml</a></p>
