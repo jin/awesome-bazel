@@ -151,6 +151,13 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
         <p><a href="https://github.com/bazelbuild/rules_kotlin">https://github.com/bazelbuild/rules_kotlin</a></p>
       </td>
     </tr>
+     <tr>
+      <td>LaTeX</td>
+      <td>
+        <p><a href="https://github.com/ProdriveTechnologies/bazel-latex">https://github.com/ProdriveTechnologies/bazel-latex</a></p>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td>Nixpkgs</td>
       <td>
