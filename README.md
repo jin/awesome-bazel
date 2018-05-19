@@ -68,17 +68,13 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>C++</td>
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></p>
-	<p><a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a> - C++ CROSSTOOL using Chromium's LLVM toolchain</p>
-	<p><a href="https://github.com/nelhage/rules_boost">https://github.com/nelhage/rules_boost</a> - Boost libraries rules</p>
+	<p>Boost libraries rules: <a href="https://github.com/nelhage/rules_boost">https://github.com/nelhage/rules_boost</a></p>
       </td>
     </tr>
     <tr>
       <td>CocoaPods</td>
       <td>
         <p><a href="https://github.com/pinterest/PodToBUILD">https://github.com/pinterest/PodToBUILD</a></p>
-	<ul>
-          <li><a href="https://github.com/pinterest/PodToBUILD#new_pod_repository-attribute-reference">new_pod_repository</a></li>
-	</ul>
       </td>
     </tr>
     <tr>
@@ -90,7 +86,14 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
 	</ul>
 	<p><a href="https://github.com/guymers/containers_by_bazel">https://github.com/guymers/containers_by_bazel</a></p>
       </td>
-    </tr>
+    </tr> 
+     <tr>
+      <td>LLVM</td>
+      <td>
+        <p><a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a></p>
+        <p><a href="https://github.com/grailbio/bazel-toolchain">https://github.com/grailbio/bazel-toolchain</a></p>
+      </td>
+    </tr>    
     <tr>
       <td>D</td>
       <td>
@@ -119,18 +122,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>Haskell</td>
       <td>
         <p><a href="https://github.com/tweag/rules_haskell">https://github.com/tweag/rules_haskell</a></p>
-	<ul>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_repositories">haskell_repositories</a></li>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_library">haskell_library</a></li>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_binary">haskell_binary</a></li>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_test">haskell_test</a></li>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_doc">haskell_doc</a></li>
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_toolchain">haskell_toolchain</a></li>	
-          <li><a href="https://github.com/tweag/rules_haskell#haskell_cc_import">haskell_cc_import</a></li>		
-          <li><a href="https://github.com/tweag/rules_haskell#cc_haskell_import">cc_haskell_import</a></li>		
-	</ul>
-	<p><a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a> - Automatic Bazel rules for third-party Haskell dependencies</p>
-	<p><a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a> - Fetch Cabal packages from Hackage and import as Bazel packages</p>
+	<p>Generate rules for third-party Haskell dependencies: <a href="https://github.com/FormationAI/hazel">https://github.com/FormationAI/hazel</a></p>
+	<p>Import Cabal packages from Hackage as Bazel packages: <a href="https://github.com/google/cabal2bazel">https://github.com/google/cabal2bazel</a></p>
       </td>   
     </tr>
     <tr>
@@ -203,10 +196,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>
         <p><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a>
 	<p><a href="https://github.com/bazelbuild/rules_python/">https://github.com/bazelbuild/rules_python/</a></p>
-	<p><a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a> Python PEX rules</p>
-	<p><a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a> - Python rules with PyPI package support</p>
-	<p><a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a> - Python wheel rules</p>
-	<p><a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a> - generate Bazel BUILD files for Python</p>
+	<p><a href="https://github.com/benley/bazel_rules_pex">https://github.com/benley/bazel_rules_pex</a></p>
+	<p>Python rules with PyPI package support: <a href="https://github.com/TriggerMail/rules_pyz">https://github.com/TriggerMail/rules_pyz</a></p>
+	<p><a href="https://github.com/georgeliaw/rules_wheel">https://github.com/georgeliaw/rules_wheel</a></p>
+	<p>Generate Bazel BUILD files for Python: <a href="https://github.com/tuomasr/pazel">https://github.com/tuomasr/pazel</a></p>
       </td>
     </tr>
     <tr>
@@ -225,45 +218,22 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
       <td>Rust</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></p>
-        <ul>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_library">rust_library</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_binary">rust_binary</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_test">rust_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_bench_test">rust_bench_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc">rust_doc</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_rust#rust_doc_test">rust_doc_test</a></li>
-        </ul>
-	<p><a href="https://github.com/google/cargo-raze">https://github.com/google/cargo-raze</a> - Bazel BUILD generation for Rust Crates</p>
+	<p>Bazel BUILD generation for Rust Crates: <a href="https://github.com/google/cargo-raze">https://github.com/google/cargo-raze</a></p>
       </td>
     </tr>
     <tr>
       <td>Scala</td>
-      <td>
-        <p><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></p>
-        <ul>
-          <li><a href="https://github.com/bazelbuild/rules_scala#scala_library">scala_library/scala_macro_library</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala#scala_binary">scala_binary</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala#scala_test">scala_test</a></li>
-          <li><a href="https://github.com/bazelbuild/rules_scala#scalapb_proto_library">scalapb_proto_library</a></li>
-        </ul>
-      </td>
     </tr>
     <tr>
       <td>Twirl</td>
       <td>
         <p><a href="https://github.com/lucidsoftware/rules_twirl">https://github.com/lucidsoftware/rules_twirl</a></p>
-        <ul>
-          <li><a href="https://lucidsoftware.github.io/rules_twirl/">Skydoc</a></li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>TypeScript</td>
       <td>
         <p><a href="https://github.com/bazelbuild/rules_typescript">https://github.com/bazelbuild/rules_typescript</a></p>
-        <ul>
-          <li><a href="https://github.com/bazelbuild/rules_typescript#compiling-typescript-ts_library">ts_library</a></li>
-        </ul>
       </td>
     </tr>
     <tr>
