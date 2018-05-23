@@ -19,6 +19,7 @@ Categories:
   urls:
     - https://github.com/pinterest/PodToBUILD
 - name: LLVM toolchain
+  main_image_url: https://llvm.org/img/LLVM-Logo-Derivative-1.png
   urls:
     - https://github.com/vsco/bazel-toolchains
     - https://github.com/grailbio/bazel-toolchain
@@ -26,12 +27,14 @@ Categories:
   urls:
     - https://github.com/bazelbuild/rules_d
 - name: Dart	
+  main_image_url: https://raw.githubusercontent.com/dart-lang/logos/master/dart/logo/1080.png
   urls:
     - https://github.com/dart-lang/bazel
 - name: Docker	
   urls:
     - https://github.com/bazelbuild/rules_docker
 - name: Go	
+  main_image_url: https://blog.golang.org/go-brand/logos.jpg
   urls:
     - https://github.com/bazelbuild/rules_go
   related_projects:
@@ -44,6 +47,7 @@ Categories:
       urls:
         - https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool
 - name: Haskell
+  main_image_url: https://i.imgur.com/PFnqeE2.jpg
   urls:
     - https://github.com/tweag/rules_haskell
   related_projects:
