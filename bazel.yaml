@@ -1,4 +1,4 @@
-Language/Platform:
+Categories:
 - name: '.NET (C#, Nuget)'
   urls:
     - https://github.com/bazelbuild/rules_dotnet
