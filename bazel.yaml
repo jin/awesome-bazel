@@ -1,0 +1,159 @@
+Language/Platform:
+- name: '.NET (C#, Nuget)'
+  urls:
+    - https://github.com/bazelbuild/rules_dotnet
+- name: Apple	(iOS, macOS, tvOS, watchOS)
+  urls:
+    - https://github.com/bazelbuild/rules_apple
+- name: ANTLR
+  urls:
+    - https://github.com/marcohu/rules_antlr
+- name: C++	
+  urls:
+  - https://docs.bazel.build/versions/master/be/c-cpp.html
+  related_projects:
+    - name: Boost libraries
+      urls:
+        - https://github.com/nelhage/rules_boost
+- name: CocoaPods	
+  urls:
+    - https://github.com/pinterest/PodToBUILD
+- name: LLVM toolchain
+  urls:
+    - https://github.com/vsco/bazel-toolchains
+    - https://github.com/grailbio/bazel-toolchain
+- name: D	
+  urls:
+    - https://github.com/bazelbuild/rules_d
+- name: Dart	
+    - https://github.com/dart-lang/bazel
+- name: Docker	
+  urls:
+    - https://github.com/bazelbuild/rules_docker
+- name: Go	
+  urls:
+    - https://github.com/bazelbuild/rules_go
+  related_projects:
+    - name: Gazelle
+      description: Generate Bazel BUILD files for Go related_projects
+      urls:
+        - https://github.com/bazelbuild/bazel-gazelle
+    - name: wtool
+      description: Tool for adding `go_repository` to WORKSPACE
+      urls:
+        - https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool
+- name: Haskell
+  urls:
+    - https://github.com/tweag/rules_haskell
+  related_projects:
+    - name: Hazel
+      description: Generate rules for third-party Haskell dependencies
+      urls:
+        - https://github.com/FormationAI/hazel
+    - name: cabal2bazel
+      description: Import Cabal packages from Hackage as Bazel packages
+      urls:
+        - https://github.com/google/cabal2bazel
+- name: Hugo	
+  urls:
+    - https://github.com/stackb/rules_hugo
+- name: Java	
+  urls:
+    - https://docs.bazel.build/versions/master/be/java.html
+  related_projects:
+    - name: Jadep
+      description: Generate BUILD files automatically for an existing Java project with class dependency analysis.
+      urls:
+        - https://github.com/bazelbuild/tools_jvm_autodeps
+- name: Kotlin	
+  urls:
+    - https://github.com/bazelbuild/rules_kotlin
+- name: LaTeX	
+  urls:
+    - https://github.com/ProdriveTechnologies/bazel-latex
+- name: Maven
+  related_projects:
+    - name: bazel-deps
+      urls:
+        - https://github.com/johnynek/bazel-deps
+      description: Generate Bazel dependencies transitively for Maven artifacts, with Scala support.
+    - name: rules_maven
+      urls:
+        - https://github.com/pubref/rules_maven
+    - name: gmaven_rules
+      urls:
+        - https://github.com/bazelbuild/gmaven_rules
+    - name: migration-tooling
+      urls:
+        - https://github.com/bazelbuild/migration-tooling
+      description: Migrate an existing Maven project to Bazel
+- name: Nixpkgs
+  urls:
+    - https://github.com/tweag/rules_nixpkgs
+- name: Node.js	
+  urls:
+    - https://github.com/bazelbuild/rules_nodejs
+    - https://github.com/dropbox/rules_node
+    - https://github.com/pubref/rules_node
+    - https://github.com/zenclabs/bazel-node
+- name: OCaml	
+  urls:
+    - https://github.com/jin/rules_ocaml
+- name: OCI Containers	
+  urls:
+    - https://github.com/guymers/bazel_rules_container
+    - https://github.com/guymers/containers_by_bazel
+- name: OpenAPI/Swagger	
+  urls:
+    - https://github.com/meetup/rules_openapi
+- name: PHP	
+  urls:
+    - https://github.com/kburnik/php_codebase
+- name: Protobuf	
+  urls:
+    - https://docs.bazel.build/versions/master/be/protocol-buffer.html
+- name: Python	
+  urls:
+    - https://docs.bazel.build/versions/master/be/python.html
+    - https://github.com/bazelbuild/rules_python/
+  related_projects:
+    - name: rules_pex
+      urls:
+        - https://github.com/benley/bazel_rules_pex
+    - name: rules_pyz
+      description: Python rules with PyPI package support
+      urls:
+        - https://github.com/FormationAI/hazel
+    - name: rules_wheel
+      description: Rules for building Python wheels
+      urls:
+        - https://github.com/georgeliaw/rules_wheel
+    - name: pazel
+      description: Generate Bazel BUILD files for Python
+      urls:
+        - https://github.com/tuomasr/pazel
+- name: R	
+  urls:
+    - https://github.com/grailbio/rules_r
+- name: Ruby	
+  urls:
+    - https://github.com/yugui/rules_ruby
+- name: Rust
+  urls:
+    - https://github.com/bazelbuild/rules_rust
+  related_projects:
+    - name: cargo-raze
+      description: Generate Bazel BUILD files for Rust Crates
+      urls: https://github.com/google/cargo-raze
+- name: Scala	
+  urls:
+    - https://github.com/bazelbuild/rules_scala
+- name: Twirl	
+  urls:
+    - https://github.com/lucidsoftware/rules_twirl
+- name: TypeScript	
+  urls:
+    - https://github.com/bazelbuild/rules_typescript
+- name: Web (HTML, CSS, JS, assets)	
+  urls:
+    - https://github.com/quittle/rules_web
