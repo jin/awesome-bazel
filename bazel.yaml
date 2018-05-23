@@ -26,6 +26,7 @@ Categories:
   urls:
     - https://github.com/bazelbuild/rules_d
 - name: Dart	
+  urls:
     - https://github.com/dart-lang/bazel
 - name: Docker	
   urls:
