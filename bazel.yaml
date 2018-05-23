@@ -9,6 +9,7 @@ Categories:
   urls:
     - https://github.com/marcohu/rules_antlr
 - name: C++	
+  main_image_url: https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png
   urls:
   - https://docs.bazel.build/versions/master/be/c-cpp.html
   related_projects:
@@ -16,6 +17,7 @@ Categories:
       urls:
         - https://github.com/nelhage/rules_boost
 - name: CocoaPods	
+  main_image_url: http://blog.cocoapods.org/assets/blog_img/design/logo.png
   urls:
     - https://github.com/pinterest/PodToBUILD
 - name: LLVM toolchain
@@ -24,6 +26,7 @@ Categories:
     - https://github.com/vsco/bazel-toolchains
     - https://github.com/grailbio/bazel-toolchain
 - name: D	
+  main_image_url: https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg
   urls:
     - https://github.com/bazelbuild/rules_d
 - name: Dart	
@@ -31,6 +34,7 @@ Categories:
   urls:
     - https://github.com/dart-lang/bazel
 - name: Docker	
+  main_image_url: https://www.docker.com/sites/default/files/horizontal.png
   urls:
     - https://github.com/bazelbuild/rules_docker
 - name: Go	
@@ -60,6 +64,7 @@ Categories:
       urls:
         - https://github.com/google/cabal2bazel
 - name: Hugo	
+  main_image_url: https://giuliovdev.gallerycdn.vsassets.io/extensions/giuliovdev/hugo-extension/1.0.1/1522337432072/images/hugo-logo.png
   urls:
     - https://github.com/stackb/rules_hugo
 - name: Java	
