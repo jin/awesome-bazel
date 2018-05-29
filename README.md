@@ -410,11 +410,16 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 
 ### Migration
 
+Tools to assist migration from Maven to Bazel
 - [https://github.com/bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
 - [https://github.com/johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
-- [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
+
+Tools for generating BUILD files from source code
+- [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
+- [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
+- [Pazel](https://github.com/tuomasr/pazel) - Generate Bazel BUILD files for Python
 
 ### Editors
 
@@ -425,7 +430,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Emacs bazel-mode](https://github.com/codesuki/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
 
-### BUILD
+### BUILD file tools
 
 [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) contains:
 
