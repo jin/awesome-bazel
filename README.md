@@ -474,6 +474,7 @@ A list of projects built with Bazel.
 
 ### Articles
 
+- [Build mobile apps with Bazel. Part 1](https://tulipemoutarde.be/posts/bazel-for-mobile-apps-part-1/) - Francois Stephany
 - [(In Japanese) Building C++ with Bazel / C++ビルド環境としてのBazel導入試行](http://blog.matsuokah.jp/entry/2015/12/15/080000)
 - [Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 - [Production Code Splitting With Bazel](https://medium.com/@gregmagolan/production-code-splitting-with-bazel-8a7da242bf83) - Greg Magolan (Google)
