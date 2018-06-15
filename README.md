@@ -428,7 +428,9 @@ Tools for generating BUILD files from source code
 - [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
-- [Emacs bazel-mode](https://github.com/codesuki/bazel-mode)
+- Emacs Support
+	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode): 
+	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
 
 ### BUILD file tools
