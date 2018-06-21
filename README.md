@@ -468,11 +468,11 @@ Tools for generating BUILD files from source code
 
 A list of projects built with Bazel.
 
-- [https://github.com/bazelment/trunk]() - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
-- [https://github.com/tensorflow/tensorflow]() - Computation using data flow graphs for scalable machine learning.
-- [https://github.com/abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
-- [https://github.com/GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) - Language focused docker images, minus the operating system.
-- [https://github.com/google/subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+- https://github.com/bazelment/trunk - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
+- https://github.com/tensorflow/tensorflow - Computation using data flow graphs for scalable machine learning.
+- https://github.com/abseil/abseil-cpp - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+- https://github.com/GoogleCloudPlatform/distroless - Language focused docker images, minus the operating system.
+- https://github.com/google/subpar - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 
 ### Articles
 
