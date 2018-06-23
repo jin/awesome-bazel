@@ -318,6 +318,14 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             </td>
         </tr>
         <tr>
+            <td>Reason</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/ostera/rules_reason">https://github.com/ostera/rules_reason</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Ruby</td>
             <td>
                 <ul>
