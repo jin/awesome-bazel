@@ -318,7 +318,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             </td>
         </tr>
         <tr>
-            <td>Reason</td>
+            <td>ReasonML, BuckleScript</td>
             <td>
                 <ul>
                     <li><a href="https://github.com/ostera/rules_reason">https://github.com/ostera/rules_reason</a></li>
