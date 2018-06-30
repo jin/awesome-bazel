@@ -192,6 +192,14 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             </td>
         </tr>
         <tr>
+            <td>Kubernetes</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_k8s">https://github.com/bazelbuild/rules_k8s</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>LaTeX</td>
             <td>
                 <ul>
@@ -424,6 +432,8 @@ Tools to assist migration from Maven to Bazel
 - [https://github.com/bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
 - [https://github.com/johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
+- [bazelize-maven-plugin](https://github.com/OrhanKupusoglu/bazelize-maven-plugin) - Maven plugin for migration from Maven to Bazel
+
 
 Tools for generating BUILD files from source code
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
