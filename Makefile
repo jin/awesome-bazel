@@ -1,6 +1,8 @@
 .DEFAULT_GOAL := index.html
 
-bazel-genfiles/index.html: README.md pandoc.css
+current := $(shell cut -c6- .git/HEAD)
+
+bazel-genfiles/index.html: README.md pandoc.css .git/${current}
 	git merge master
 	bazel build :site
 
@@ -11,3 +13,5 @@ deploy: index.html
 	git add .
 	git commit -am "Update gh-pages"
 	git push
+
+all: deploy
