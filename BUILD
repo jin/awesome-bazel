@@ -1,11 +1,4 @@
 genrule(
-    name = "css",
-    srcs = ["pandoc.css"],
-    outs = ["styles.css"],
-    cmd = "cp $< $@"
-)
-
-genrule(
     name = "index",
     srcs = [
         "HEADER.yaml",
@@ -21,14 +14,13 @@ genrule(
         "index.html",
     ],
     srcs = [
+        "pandoc.css",
         "index.md",
-        "styles.css",
     ],
     cmd = """
     pandoc \
         -o $(location index.html) \
         --to html5 \
-        --css $(location styles.css) \
         --standalone $(location index.md)
     """,
 )
