@@ -400,12 +400,6 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
 - [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
 
-#### Projects written with Skylark extensions
-
-- [android-scala-bazel](https://github.com/gregghz/android-scala-bazel) - A minimal Android app using Scala and Bazel
-- [angular-bazel-example: Building an Angular application with Bazel](https://github.com/alexeagle/angular-bazel-example)
-	- ABC: Angular Buildtools Convergence [https://g.co/ng/abc](https://g.co/ng/abc)
-
 ### Remote caching and execution
 
 - [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
@@ -467,13 +461,15 @@ Tools for generating BUILD files from source code
 
 ### Projects
 
-A list of projects built with Bazel.
+A list of projects built with Bazel:
 
-- https://github.com/bazelment/trunk - A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
-- https://github.com/tensorflow/tensorflow - Computation using data flow graphs for scalable machine learning.
-- https://github.com/abseil/abseil-cpp - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
-- https://github.com/GoogleCloudPlatform/distroless - Language focused docker images, minus the operating system.
-- https://github.com/google/subpar - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+- [bazelment/trunk](https://github.com/bazelment/trunk): A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): Computation using data flow graphs for scalable machine learning.
+- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+- [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) - Language focused docker images, minus the operating system.
+- [google/subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+- [alexeagle/angular-bazel-example](https://github.com/alexeagle/angular-bazel-example): Building an Angular application with Bazel
+	- ABC: Angular Buildtools Convergence [https://g.co/ng/abc](https://g.co/ng/abc)
 
 ### Articles
 
@@ -489,8 +485,8 @@ A list of projects built with Bazel.
 - [Bazel Conference 2017](https://medium.com/@justin_16029/bazel-conference-2017-85a4f397d69c) - Justin Poehnelt
 - [What Angular is doing with Bazel and Closure](https://medium.com/@Jakeherringbone/what-angular-is-doing-with-bazel-and-closure-21f526f64a34)
 - [Building Docker Images Without Docker](https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9)
-- [Bazel Golang Hello World](https://chrislovecnm.com/golang/bazel/bazel-hello-world/)
-- [Migrating from Gradle to Bazel](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel/)
+- [Bazel Golang Hello World](https://chrislovecnm.com/golang/bazel/bazel-hello-world)
+- [Migrating from Gradle to Bazel](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel)
 - [Benchmarking the Bazel build system on real-life C++](http://nicolovaligi.com/benchmark-bazel-build-cpp.html)
 - [Migrating Gypsum and CodeSwitch to Bazel](http://jayconrod.com/posts/97/migrating-to-bazel-part-1) - Jay Conrod (Google)
 
@@ -530,7 +526,7 @@ A list of projects built with Bazel.
 ### Blogs
 
 - [Official Bazel Blog](https://blog.bazel.build)
-- [@kchodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
+- [Kristina Chodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
 
 ### Community
 
