@@ -6,12 +6,22 @@ genrule(
 )
 
 genrule(
+    name = "index",
+    srcs = [
+        "HEADER.yaml",
+        "README.md",
+    ],
+    outs = ["index.md"],
+    cmd = "cat $(location HEADER.yaml) $(location README.md) > $@"
+)
+
+genrule(
     name = "site",
     outs = [
         "index.html",
     ],
     srcs = [
-        "README.md",
+        "index.md",
         "styles.css",
     ],
     cmd = """
@@ -19,6 +29,6 @@ genrule(
         -o $(location index.html) \
         --to html5 \
         --css $(location styles.css) \
-        --standalone $(location README.md)
+        --standalone $(location index.md)
     """,
 )

@@ -1,9 +1,3 @@
----
-pagetitle: "Awesome Bazel"
-header-includes: 
-  <link rel="stylesheet" href="./styles.css">
----
-
 # Awesome Bazel
 
 <p align="center">
