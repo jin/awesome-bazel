@@ -1,7 +1,5 @@
 # Awesome Bazel
 
-
-
 <p align="center">
 	<img height="300" src="https://bazel.build/images/bazel-icon.svg"></img>
 </p>
@@ -10,6 +8,8 @@
 > Bazel is an open-source build and test tool similar to Make, Maven, and Gradle. It uses a human-readable, high-level build language. Bazel supports projects in multiple languages and builds outputs for multiple platforms. Bazel supports large codebases across multiple repositories, and large numbers of users. *(via [docs](https://docs.bazel.build/versions/master/bazel-overview.html))*
 
 A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooling) and [resources](#resources).
+
+Have something to contribute or discuss? [Open a pull request](https://github.com/jin/awesome-bazel/pulls) or [create an issue](https://github.com/jin/awesome-bazel/issues/new).
 
 ---
 
