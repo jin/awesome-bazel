@@ -14,6 +14,8 @@
 
 A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooling) and [resources](#resources).
 
+Have something to contribute or discuss? [Open a pull request](https://github.com/jin/awesome-bazel/pulls) or [create an issue](https://github.com/jin/awesome-bazel/issues/new).
+
 ---
 
 ## Contents
