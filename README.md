@@ -492,6 +492,7 @@ A list of projects built with Bazel:
 
 ### Videos
 
+- [ScalaSphere 2018: Using Bazel to build Scala](https://www.youtube.com/watch?v=iSLDQPsWvGs) - Andy Scott (Stripe)
 - [GopherChina 2018: Bazel build //:Go](https://www.youtube.com/watch?v=oTS_xxZyhG8) - Yuan He (流利说/liulishuo.com)
 - [How I love being ejected: Customizing your Angular build with Bazel](https://www.youtube.com/watch?v=ieRJwFGWEOM) - Greg Magolan (Angular team)
 - [SF Scala: Bazel - a Brief Overview](https://www.youtube.com/watch?v=m9Vypu4AYc4) - Ulf Adams (Google)
