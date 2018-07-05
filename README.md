@@ -78,8 +78,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Boost libraries: </div>
-                        <div> https://github.com/nelhage/rules_boost </div>
+                        <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
                     </li>
                 </ul>
             </td>
@@ -133,12 +132,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Gazelle: Generate Bazel BUILD files for Go related_projects </div>
-                        <div> https://github.com/bazelbuild/bazel-gazelle </div>
+                        <div><a href="https://github.com/bazelbuild/bazel-gazelle">Gazelle</a>: Generate Bazel BUILD files for Go related_projects </div>
                     </li>
                     <li>
-                        <div> wtool: Tool for adding `go_repository` to WORKSPACE </div>
-                        <div> https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool </div>
+                        <div><a href="https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool">wtool</a>: Tool for adding `go_repository` to WORKSPACE</div>
                     </li>
                 </ul>
             </td>
@@ -151,10 +148,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div>Hazel: Generate rules for third-party Haskell dependencies - <a href="https://github.com/FormationAI/hazel">FormationAI/hazel</a></div>
+                        <div><a href="https://github.com/FormationAI/hazel">FormationAI/hazel</a>: Generate rules for third-party Haskell dependencies</div>
                     </li>
                     <li>
-                        <div> cabal2bazel: Import Cabal packages from Hackage as Bazel packages - <a href="https://github.com/google/cabal2bazel">google/cabal2bazel</a></div>
+                        <div><a href="https://github.com/google/cabal2bazel">google/cabal2bazel</a>: Import Cabal packages from Hackage as Bazel packages</div>
                     </li>
                 </ul>
             </td>
@@ -175,7 +172,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Jadep: Generate BUILD files automatically for an existing Java project with class dependency analysis. <a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a></div>
+                        <div><a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a> (Jadep): Generate BUILD files automatically for an existing Java project with class dependency analysis.</div>
                     </li>
                 </ul>
             </td>
@@ -209,19 +206,16 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>
                 <ul>
                     <li>
-                    <div> bazel-deps: Generate Bazel dependencies transitively for Maven artifacts, with Scala support. - <a href="https://github.com/johnynek/bazel-deps">johnynek/bazeldeps</a></div>
+                      <div><a href="https://github.com/johnynek/bazel-deps">johnynek/bazeldeps</a>: Generate Bazel dependencies transitively for Maven artifacts, with Scala support.</div>
                     </li>
                     <li>
-                        <div> rules_maven: </div>
-                        <div> https://github.com/pubref/rules_maven </div>
+                        <div><a href="https://github.com/pubref/rules_maven">pubref/rules_maven</a></div>
                     </li>
                     <li>
-                        <div> gmaven_rules: </div>
-                        <div> https://github.com/bazelbuild/gmaven_rules </div>
+                        <div><a href="https://github.com/bazelbuild/gmaven_rules">bazelbuild/gmaven_rules</a>: Repository rules for Maven artifacts hosted on Google Maven repository</div>
                     </li>
                     <li>
-                        <div> migration-tooling: Migrate an existing Maven project to Bazel </div>
-                        <div> https://github.com/bazelbuild/migration-tooling </div>
+                        <div><a href="https://github.com/bazelbuild/migration-tooling">bazelbuild/migration-tooling</a>: Migrate an existing Maven project to Bazel </div>
                     </li>
                 </ul>
             </td>
@@ -295,20 +289,16 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> rules_pex: </div>
-                        <div> https://github.com/benley/bazel_rules_pex </div>
+                        <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
                     </li>
                     <li>
-                        <div> rules_pyz: Python rules with PyPI package support </div>
-                        <div> https://github.com/FormationAI/hazel </div>
+                        <div><a href="https://github.com/FormationAI/hazel">FormationAI/rules_pyz</a>: Python rules with PyPI package support</div>
                     </li>
                     <li>
-                        <div> rules_wheel: Rules for building Python wheels </div>
-                        <div> https://github.com/georgeliaw/rules_wheel </div>
+                        <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
                     </li>
                     <li>
-                        <div> pazel: Generate Bazel BUILD files for Python </div>
-                        <div> https://github.com/tuomasr/pazel </div>
+                        <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
                     </li>
                 </ul>
             </td>
@@ -345,8 +335,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> cargo-raze: Generate Bazel BUILD files for Rust Crates </div>
-                        <div> https://github.com/google/cargo-raze </div>
+                        <div><a href="https://github.com/google/cargo-raze">google/cargo-raze</a>: Generate Bazel BUILD files for Rust Crates</div>
                     </li>
                 </ul>
             </td>
@@ -411,12 +400,11 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
 - [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
 
-
 #### Projects written with Skylark extensions
 
 - [android-scala-bazel](https://github.com/gregghz/android-scala-bazel) - A minimal Android app using Scala and Bazel
 - [angular-bazel-example: Building an Angular application with Bazel](https://github.com/alexeagle/angular-bazel-example)
-	- ABC: Angular with Bazel and Closure [https://g.co/ng/abc](https://g.co/ng/abc)
+	- ABC: Angular Buildtools Convergence [https://g.co/ng/abc](https://g.co/ng/abc)
 
 ### Remote caching and execution
 
@@ -425,6 +413,7 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 ### Migration
 
 Tools to assist migration from Maven to Bazel
+
 - [https://github.com/bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
 - [https://github.com/johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
 - [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
@@ -432,6 +421,7 @@ Tools to assist migration from Maven to Bazel
 
 
 Tools for generating BUILD files from source code
+
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
@@ -455,10 +445,6 @@ Tools for generating BUILD files from source code
 - Buildifier - Prettifier for BUILD files
 - Buildozer - Manipulate BUILD file contents from the command line
 - unused_deps - Find unneeded dependencies in BUILD files
-
-### Go
-
-- [wtool](https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool) - Tool for adding `go_repository` to WORKSPACE
 
 ## Resources
 
