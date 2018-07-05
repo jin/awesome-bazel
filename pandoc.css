@@ -14,8 +14,9 @@ body {
     line-height: 1.7;
     padding: 1em;
     margin: auto;
-    max-width: 42em;
+    max-width: 50em;
     background: #fefefe;
+    overflow-x: auto;
 }
 
 a {
@@ -219,10 +220,6 @@ figcaption {
     font-size: 0.8em;
     font-style: italic;
     margin: 0 0 .8em;
-}
-
-h2.rules {
-    overflow-x:auto;
 }
 
 table {
