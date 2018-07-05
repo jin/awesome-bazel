@@ -50,7 +50,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>.NET (C#, Nuget)</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_dotnet">https://github.com/bazelbuild/rules_dotnet</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_dotnet">bazelbuild/rules_dotnet</a></li>
                 </ul>
             </td>
         </tr>
@@ -58,7 +58,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Apple (iOS, macOS, tvOS, watchOS)</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_apple">https://github.com/bazelbuild/rules_apple</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_apple">bazelbuild/rules_apple</a></li>
                 </ul>
             </td>
         </tr>
@@ -66,7 +66,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>ANTLR</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/marcohu/rules_antlr">https://github.com/marcohu/rules_antlr</a></li>
+                    <li><a href="https://github.com/marcohu/rules_antlr">marcohu/rules_antlr</a></li>
                 </ul>
             </td>
         </tr>
@@ -88,7 +88,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>CocoaPods</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/pinterest/PodToBUILD">https://github.com/pinterest/PodToBUILD</a></li>
+                    <li><a href="https://github.com/pinterest/PodToBUILD">pinterest/PodToBUILD</a></li>
                 </ul>
             </td>
         </tr>
@@ -96,8 +96,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>LLVM toolchain</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/vsco/bazel-toolchains">https://github.com/vsco/bazel-toolchains</a></li>
-                    <li><a href="https://github.com/grailbio/bazel-toolchain">https://github.com/grailbio/bazel-toolchain</a></li>
+                    <li><a href="https://github.com/vsco/bazel-toolchains">vsco/bazel-toolchains</a></li>
+                    <li><a href="https://github.com/grailbio/bazel-toolchain">grailbio/bazel-toolchain</a></li>
                 </ul>
             </td>
         </tr>
@@ -105,7 +105,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>D</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_d">https://github.com/bazelbuild/rules_d</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_d">bazelbuild/rules_d</a></li>
                 </ul>
             </td>
         </tr>
@@ -113,7 +113,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Dart</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/dart-lang/bazel">https://github.com/dart-lang/bazel</a></li>
+                    <li><a href="https://github.com/dart-lang/bazel">dart-lang/bazel</a></li>
                 </ul>
             </td>
         </tr>
@@ -121,7 +121,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Docker</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_docker">https://github.com/bazelbuild/rules_docker</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_docker">bazelbuild/rules_docker</a></li>
                 </ul>
             </td>
         </tr>
@@ -129,7 +129,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Go</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_go">https://github.com/bazelbuild/rules_go</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_go">bazelbuild/rules_go</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -147,16 +147,14 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Haskell</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/tweag/rules_haskell">https://github.com/tweag/rules_haskell</a></li>
+                    <li><a href="https://github.com/tweag/rules_haskell">tweag/rules_haskell</a></li>
                 </ul>
                 <ul>
                     <li>
-                        <div> Hazel: Generate rules for third-party Haskell dependencies </div>
-                        <div> https://github.com/FormationAI/hazel </div>
+                        <div>Hazel: Generate rules for third-party Haskell dependencies - <a href="https://github.com/FormationAI/hazel">FormationAI/hazel</a></div>
                     </li>
                     <li>
-                        <div> cabal2bazel: Import Cabal packages from Hackage as Bazel packages </div>
-                        <div> https://github.com/google/cabal2bazel </div>
+                        <div> cabal2bazel: Import Cabal packages from Hackage as Bazel packages - <a href="https://github.com/google/cabal2bazel">google/cabal2bazel</a></div>
                     </li>
                 </ul>
             </td>
@@ -165,7 +163,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Hugo</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/stackb/rules_hugo">https://github.com/stackb/rules_hugo</a></li>
+                    <li><a href="https://github.com/stackb/rules_hugo">stackb/rules_hugo</a></li>
                 </ul>
             </td>
         </tr>
@@ -177,8 +175,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Jadep: Generate BUILD files automatically for an existing Java project with class dependency analysis. </div>
-                        <div> https://github.com/bazelbuild/tools_jvm_autodeps </div>
+                        <div> Jadep: Generate BUILD files automatically for an existing Java project with class dependency analysis. <a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a></div>
                     </li>
                 </ul>
             </td>
@@ -187,7 +184,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Kotlin</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_kotlin">https://github.com/bazelbuild/rules_kotlin</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_kotlin">bazelbuild/rules_kotlin</a></li>
                 </ul>
             </td>
         </tr>
@@ -195,7 +192,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Kubernetes</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_k8s">https://github.com/bazelbuild/rules_k8s</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_k8s">bazelbuild/rules_k8s</a></li>
                 </ul>
             </td>
         </tr>
@@ -203,7 +200,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>LaTeX</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/ProdriveTechnologies/bazel-latex">https://github.com/ProdriveTechnologies/bazel-latex</a></li>
+                    <li><a href="https://github.com/ProdriveTechnologies/bazel-latex">ProdriveTechnologies/bazel-latex</a></li>
                 </ul>
             </td>
         </tr>
@@ -212,8 +209,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>
                 <ul>
                     <li>
-                        <div> bazel-deps: Generate Bazel dependencies transitively for Maven artifacts, with Scala support. </div>
-                        <div> https://github.com/johnynek/bazel-deps </div>
+                    <div> bazel-deps: Generate Bazel dependencies transitively for Maven artifacts, with Scala support. - <a href="https://github.com/johnynek/bazel-deps">johnynek/bazeldeps</a></div>
                     </li>
                     <li>
                         <div> rules_maven: </div>
@@ -234,7 +230,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Nixpkgs</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/tweag/rules_nixpkgs">https://github.com/tweag/rules_nixpkgs</a></li>
+                    <li><a href="https://github.com/tweag/rules_nixpkgs">tweag/rules_nixpkgs</a></li>
                 </ul>
             </td>
         </tr>
@@ -242,10 +238,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Node.js</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_nodejs">https://github.com/bazelbuild/rules_nodejs</a></li>
-                    <li><a href="https://github.com/dropbox/rules_node">https://github.com/dropbox/rules_node</a></li>
-                    <li><a href="https://github.com/pubref/rules_node">https://github.com/pubref/rules_node</a></li>
-                    <li><a href="https://github.com/zenclabs/bazel-node">https://github.com/zenclabs/bazel-node</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_nodejs">bazelbuild/rules_nodejs</a></li>
+                    <li><a href="https://github.com/dropbox/rules_node">dropbox/rules_node</a></li>
+                    <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
+                    <li><a href="https://github.com/zenclabs/bazel-node">zenclabs/bazel-node</a></li>
                 </ul>
             </td>
         </tr>
@@ -253,7 +249,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>OCaml</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/jin/rules_ocaml">https://github.com/jin/rules_ocaml</a></li>
+                    <li><a href="https://github.com/jin/rules_ocaml">jin/rules_ocaml</a></li>
                 </ul>
             </td>
         </tr>
@@ -261,8 +257,8 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>OCI Containers</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/guymers/bazel_rules_container">https://github.com/guymers/bazel_rules_container</a></li>
-                    <li><a href="https://github.com/guymers/containers_by_bazel">https://github.com/guymers/containers_by_bazel</a></li>
+                    <li><a href="https://github.com/guymers/bazel_rules_container">guymers/bazel_rules_container</a></li>
+                    <li><a href="https://github.com/guymers/containers_by_bazel">guymers/containers_by_bazel</a></li>
                 </ul>
             </td>
         </tr>
@@ -270,7 +266,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>OpenAPI/Swagger</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/meetup/rules_openapi">https://github.com/meetup/rules_openapi</a></li>
+                    <li><a href="https://github.com/meetup/rules_openapi">meetup/rules_openapi</a></li>
                 </ul>
             </td>
         </tr>
@@ -278,7 +274,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>PHP</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/kburnik/php_codebase">https://github.com/kburnik/php_codebase</a></li>
+                    <li><a href="https://github.com/kburnik/php_codebase">kburnik/php_codebase</a></li>
                 </ul>
             </td>
         </tr>
@@ -295,7 +291,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>
                 <ul>
                     <li><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></li>
-                    <li><a href="https://github.com/bazelbuild/rules_python/">https://github.com/bazelbuild/rules_python/</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_python/">bazelbuild/rules_python</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -321,7 +317,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>R</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/grailbio/rules_r">https://github.com/grailbio/rules_r</a></li>
+                    <li><a href="https://github.com/grailbio/rules_r">grailbio/rules_r</a></li>
                 </ul>
             </td>
         </tr>
@@ -329,7 +325,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>ReasonML, BuckleScript</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/ostera/rules_reason">https://github.com/ostera/rules_reason</a></li>
+                    <li><a href="https://github.com/ostera/rules_reason">ostera/rules_reason</a></li>
                 </ul>
             </td>
         </tr>
@@ -337,7 +333,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Ruby</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/yugui/rules_ruby">https://github.com/yugui/rules_ruby</a></li>
+                    <li><a href="https://github.com/yugui/rules_ruby">yugui/rules_ruby</a></li>
                 </ul>
             </td>
         </tr>
@@ -345,7 +341,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Rust</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_rust">https://github.com/bazelbuild/rules_rust</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_rust">bazelbuild/rules_rust</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -359,7 +355,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Scala</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_scala">https://github.com/bazelbuild/rules_scala</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
                 </ul>
             </td>
         </tr>
@@ -367,7 +363,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Twirl</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/lucidsoftware/rules_twirl">https://github.com/lucidsoftware/rules_twirl</a></li>
+                    <li><a href="https://github.com/lucidsoftware/rules_twirl">lucidsoftware/rules_twirl</a></li>
                 </ul>
             </td>
         </tr>
@@ -375,7 +371,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>TypeScript</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_typescript">https://github.com/bazelbuild/rules_typescript</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_typescript">bazelbuild/rules_typescript</a></li>
                 </ul>
             </td>
         </tr>
@@ -383,7 +379,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>Web (HTML, CSS, JS, assets)</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/quittle/rules_web">https://github.com/quittle/rules_web</a></li>
+                    <li><a href="https://github.com/quittle/rules_web">quittle/rules_web</a></li>
                 </ul>
             </td>
         </tr>
@@ -548,7 +544,7 @@ A list of projects built with Bazel.
 ### Blogs
 
 - [Official Bazel Blog](https://blog.bazel.build)
-- [@kchodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel/)
+- [@kchodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
 
 ### Community
 
