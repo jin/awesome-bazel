@@ -153,12 +153,10 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Hazel: Generate rules for third-party Haskell dependencies </div>
-                        <div> https://github.com/FormationAI/hazel </div>
+                        <div>Hazel: Generate rules for third-party Haskell dependencies - <a href="https://github.com/FormationAI/hazel">FormationAI/hazel</a></div>
                     </li>
                     <li>
-                        <div> cabal2bazel: Import Cabal packages from Hackage as Bazel packages </div>
-                        <div> https://github.com/google/cabal2bazel </div>
+                        <div> cabal2bazel: Import Cabal packages from Hackage as Bazel packages - <a href="https://github.com/google/cabal2bazel">google/cabal2bazel</a></div>
                     </li>
                 </ul>
             </td>
@@ -179,8 +177,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
                 </ul>
                 <ul>
                     <li>
-                        <div> Jadep: Generate BUILD files automatically for an existing Java project with class dependency analysis. </div>
-                        <div> https://github.com/bazelbuild/tools_jvm_autodeps </div>
+                        <div> Jadep: Generate BUILD files automatically for an existing Java project with class dependency analysis. <a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a></div>
                     </li>
                 </ul>
             </td>
@@ -214,8 +211,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>
                 <ul>
                     <li>
-                        <div> bazel-deps: Generate Bazel dependencies transitively for Maven artifacts, with Scala support. </div>
-                        <div> https://github.com/johnynek/bazel-deps </div>
+                    <div> bazel-deps: Generate Bazel dependencies transitively for Maven artifacts, with Scala support. - <a href="https://github.com/johnynek/bazel-deps">johnynek/bazeldeps</a></div>
                     </li>
                     <li>
                         <div> rules_maven: </div>
@@ -297,7 +293,7 @@ A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooli
             <td>
                 <ul>
                     <li><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></li>
-                    <li><a href="https://github.com/bazelbuild/rules_python/">bazelbuild/rules_python/</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_python/">bazelbuild/rules_python</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -552,7 +548,7 @@ A list of projects built with Bazel.
 ### Blogs
 
 - [Official Bazel Blog](https://blog.bazel.build)
-- [@kchodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel/)
+- [@kchodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
 
 ### Community
 
