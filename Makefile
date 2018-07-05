@@ -1,6 +1,7 @@
 .DEFAULT_GOAL := index.html
 
 bazel-genfiles/index.html: 
+	git rebase master
 	bazel build :site
 
 index.html: bazel-genfiles/index.html
