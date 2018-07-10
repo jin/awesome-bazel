@@ -22,8 +22,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Editor plugins](#editors)
   - [Misc](#misc)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Designs](#designs)
+	- [Tutorials](#tutorials)
   - [Projects](#projects)
   - [Articles](#articles)
   - [Videos](#videos)
@@ -459,10 +458,6 @@ Tools for generating BUILD files from source code
 #### Community
 
 - [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
-
-### Designs
-
-- [Bazel Proposals Repository](https://github.com/bazelbuild/proposals)
 
 ### Projects
 
