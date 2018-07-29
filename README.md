@@ -27,8 +27,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Editor plugins](#editors)
   - [Misc](#misc)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Designs](#designs)
+	- [Tutorials](#tutorials)
   - [Projects](#projects)
   - [Articles](#articles)
   - [Videos](#videos)
@@ -57,6 +56,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_dotnet">bazelbuild/rules_dotnet</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Android</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_android">bazelbuild/rules_android</a></li>
+		    <li><a href="https://github.com/quittle/bazel_android_sdk_downloader">bazelbuild/bazel_android_sdk_downloader</a></li>: Drop-in replacement for the Bazel build system's Android repository rules to automate the downloading and installation of the Android SDK
                 </ul>
             </td>
         </tr>
@@ -90,19 +98,18 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
-            <td>CocoaPods</td>
+            <td>Closure</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/pinterest/PodToBUILD">pinterest/PodToBUILD</a></li>
+                    <li><a href="https://github.com/bazelbuild/rules_closure">bazelbuild/rules_closure</a></li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td>LLVM toolchain</td>
+            <td>CocoaPods</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/vsco/bazel-toolchains">vsco/bazel-toolchains</a></li>
-                    <li><a href="https://github.com/grailbio/bazel-toolchain">grailbio/bazel-toolchain</a></li>
+                    <li><a href="https://github.com/pinterest/PodToBUILD">pinterest/PodToBUILD</a></li>
                 </ul>
             </td>
         </tr>
@@ -130,6 +137,22 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>ECS</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/dan-compton/ecsonnet">dan-compton/ecsonnet</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Emscripten</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/ribrdb/rules_emscripten">ribrdb/rules_emscripten</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>Go</td>
             <td>
@@ -141,8 +164,16 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/bazelbuild/bazel-gazelle">Gazelle</a>: Generate Bazel BUILD files for Go related_projects </div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool">wtool</a>: Tool for adding `go_repository` to WORKSPACE</div>
+                        <div><a href="https://github.com/bazelbuild/bazel-gazelle#update-repos">update-repos</a>: Tool in Gazelle for adding Go dependencies as `go_repository` to WORKSPACE</div>
                     </li>
+                </ul>
+            </td>
+        </tr>
+	<tr>
+            <td>GWT</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_gwt">bazelbuild/rules_gwt</a></li>
                 </ul>
             </td>
         </tr>
@@ -208,6 +239,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>LLVM toolchain</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/vsco/bazel-toolchains">vsco/bazel-toolchains</a></li>
+                    <li><a href="https://github.com/grailbio/bazel-toolchain">grailbio/bazel-toolchain</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Maven</td>
             <td>
                 <ul>
@@ -241,7 +281,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li><a href="https://github.com/bazelbuild/rules_nodejs">bazelbuild/rules_nodejs</a></li>
                     <li><a href="https://github.com/dropbox/rules_node">dropbox/rules_node</a></li>
                     <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
-                    <li><a href="https://github.com/zenclabs/bazel-node">zenclabs/bazel-node</a></li>
+                    <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
                 </ul>
             </td>
         </tr>
@@ -346,11 +386,27 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>Sass</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_sass">bazelbuild/rules_sass</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>Scala</td>
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Swift</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_swift">bazelbuild/rules_swift</a></li>
                 </ul>
             </td>
         </tr>
@@ -385,16 +441,17 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-- [bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
-- [dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
-- [bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
+- [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
+- [nadirizr/dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
+- [spotify/bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
+- [atlassian/bazel-tools](https://github.com/atlassian/bazel-tools) - Atlassian's reusable bits for Bazel
+- [gerrit/bazlets](https://github.com/GerritCodeReview/bazlets) - Gerrit's re-usable building blocks for Bazel build tool
 - [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
-- [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
-- [Lavender](https://github.com/tmandry/lavender) - Generate Visual Studio projects that uses Bazel for the actual building
 - [heroku-buildpack-bazel](https://github.com/google/heroku-buildpack-bazel) - Heroku buildpack for Bazel
 - [hchauvin/bazel-coverage-report](https://github.com/hchauvin/bazel-coverage-report) - A multi-language coverage report generator for Bazel
-- [create-bazel-workspace](https://github.com/jin/create-bazel-workspace) - Generate a new multi-language Bazel workspace with minimal configuration
 - [bazel-arcanist](https://github.com/igorgatis/bazel-arcanist) - Integration with Arcanist with `arc test` and `arc lint`
+- [Asana/bazeltsc](https://github.com/Asana/bazeltsc) - TypeScript compiler that knows how to run as a Bazel persistent worker
+- [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 
 ### Skylark
 
@@ -409,27 +466,26 @@ Skylark is Bazel's domain-specific language for writing BUILD definitions and ru
 ### Remote caching and execution
 
 - [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
+- [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Self-hosted remote caching and execution service
+- [EdSchouten/bazel-buildbarn](https://github.com/EdSchouten/bazel-buildbarn) - Alternative buildfarm implementation written in Go
+- [Asana/bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
 
-### Migration
+### Project generators
 
-Tools to assist migration from Maven to Bazel
+Tools for generating WORKSPACE and BUILD files from source code.
 
-- [bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
-- [johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
-- [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
-- [bazelize-maven-plugin](https://github.com/OrhanKupusoglu/bazelize-maven-plugin) - Maven plugin for migration from Maven to Bazel
-
-
-Tools for generating BUILD files from source code
-
+- [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
+- [Lavender](https://github.com/tmandry/lavender) - Generate Visual Studio projects that uses Bazel for the actual building
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
 - [Pazel](https://github.com/tuomasr/pazel) - Generate Bazel BUILD files for Python
+- [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
+- [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace
+- [create-bazel-workspace](https://github.com/jin/create-bazel-workspace) - Generate a new multi-language Bazel workspace with minimal configuration
 
 ### Editors
 
-- [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
 - [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
@@ -446,7 +502,21 @@ Tools for generating BUILD files from source code
 - Buildozer - Manipulate BUILD file contents from the command line
 - unused_deps - Find unneeded dependencies in BUILD files
 
+### Migration
+
+- [bazelbuild/migration-tooling](https://github.com/bazelbuild/migration-tooling) - Migrate an existing Maven project to Bazel.
+- [johnynek/bazel-deps](https://github.com/johnynek/bazel-deps) - Generate bazel dependencies transitively for Maven artifacts, with scala support.
+- [rules_maven](https://github.com/pubref/rules_maven) - Rules to define Maven dependencies
+- [bazelize-maven-plugin](https://github.com/OrhanKupusoglu/bazelize-maven-plugin) - Maven plugin for migration from Maven to Bazel
+- [bazelbuild/gmaven_rules](https://github.com/bazelbuild/gmaven_rules) - Transitive WORKSPACE rules for Google's Maven repository
+- [stripe/sbt-bazel](https://github.com/stripe/sbt-bazel) - Easily convert SBT projects to Bazel workspaces
+
 ## Resources
+
+### Designs
+
+- [bazelbuild/proposals](https://github.com/bazelbuild/proposals) - Index of all design documents and proposals for Bazel.
+- [Bazel's design process](https://bazel.build/designs/index.html)
 
 ### Tutorials
 
@@ -465,10 +535,6 @@ Tools for generating BUILD files from source code
 
 - [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
 
-### Designs
-
-- [Bazel Proposals Repository](https://github.com/bazelbuild/proposals)
-
 ### Projects
 
 A list of projects built with Bazel:
@@ -480,10 +546,14 @@ A list of projects built with Bazel:
 - [google/subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 - [alexeagle/angular-bazel-example](https://github.com/alexeagle/angular-bazel-example): Building an Angular application with Bazel
 	- ABC: Angular Buildtools Convergence [https://g.co/ng/abc](https://g.co/ng/abc)
+- [google/startup-os](https://github.com/google/startup-os) - Working examples of Google's Open Source tools and Cloud.
+- [lucperkins/colossus](https://github.com/lucperkins/colossus) - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
+
 
 ### Articles
 
-- [Build mobile apps with Bazel. Part 1](https://tulipemoutarde.be/posts/bazel-for-mobile-apps-part-1/) - Francois Stephany
+- [Build mobile apps with Bazel. Part 2: iOS](https://tulipemoutarde.be/posts/bazel-for-mobile-apps-part-2/) - Francois Stephany
+- [Build mobile apps with Bazel. Part 1: Android](https://tulipemoutarde.be/posts/bazel-for-mobile-apps-part-1/) - Francois Stephany
 - [(In Japanese) Building C++ with Bazel / C++ビルド環境としてのBazel導入試行](http://blog.matsuokah.jp/entry/2015/12/15/080000)
 - [Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/posts/2018-03-15-bazel-nix.html)
 - [Production Code Splitting With Bazel](https://medium.com/@gregmagolan/production-code-splitting-with-bazel-8a7da242bf83) - Greg Magolan (Google)
@@ -543,7 +613,8 @@ A list of projects built with Bazel:
 
 - [`#bazel` on Freenode](http://webchat.freenode.net/?channels=bazel)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bazel)
-- [Mailing list](https://groups.google.com/forum/#!forum/bazel-discuss)
+- [Bazel users mailing list](https://groups.google.com/forum/#!forum/bazel-discuss)
+- [Bazel developers mailing list](https://groups.google.com/forum/#!forum/bazel-dev)
 
 ### Misc
 
