@@ -64,7 +64,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_android">bazelbuild/rules_android</a></li>
-		    <li><a href="https://github.com/quittle/bazel_android_sdk_downloader">bazelbuild/bazel_android_sdk_downloader</a></li>: Drop-in replacement for the Bazel build system's Android repository rules to automate the downloading and installation of the Android SDK
+		    <li><a href="https://github.com/quittle/bazel_android_sdk_downloader">quittle/bazel_android_sdk_downloader</a></li>: Drop-in replacement for android_sdk_repository to automatically download the Android SDK.
                 </ul>
             </td>
         </tr>
