@@ -135,7 +135,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/bazelbuild/bazel-gazelle">Gazelle</a>: Generate Bazel BUILD files for Go related_projects </div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/bazelbuild/rules_go/tree/master/go/tools/wtool">wtool</a>: Tool for adding `go_repository` to WORKSPACE</div>
+                        <div><a href="https://github.com/bazelbuild/bazel-gazelle#update-repos">update-repos</a>: Tool in Gazelle for adding Go dependencies as `go_repository` to WORKSPACE</div>
                     </li>
                 </ul>
             </td>
