@@ -197,6 +197,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Idris</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/BryghtWords/rules_idris">BryghtWords/rules_idris</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Java</td>
             <td>
                 <ul>
