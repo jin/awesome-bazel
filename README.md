@@ -329,6 +329,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>Purescript</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/felixmulder/rules_purescript">felixmulder/rules_purescript</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>Python</td>
             <td>
