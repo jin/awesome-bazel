@@ -349,7 +349,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/FormationAI/hazel">FormationAI/rules_pyz</a>: Python rules with PyPI package support</div>
+                        <div><a href="https://github.com/TriggerMail/rules_pyz">FormationAI/rules_pyz</a>: Python rules with PyPI package support</div>
                     </li>
                     <li>
                         <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
