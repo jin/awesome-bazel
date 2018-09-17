@@ -357,6 +357,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li>
                         <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
                     </li>
+		    <li>
+                        <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
+                    </li>
                 </ul>
             </td>
         </tr>
