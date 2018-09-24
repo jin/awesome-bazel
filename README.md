@@ -17,7 +17,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 - [Rules](#rules)
 - [Tooling](#tooling)
-  - [Skylark](#skylark)
+  - [Starlark](#starlark)
   - [Migration](#migration)
   - [Editor plugins](#editors)
   - [Misc](#misc)
@@ -467,14 +467,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [Asana/bazeltsc](https://github.com/Asana/bazeltsc) - TypeScript compiler that knows how to run as a Bazel persistent worker
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 
-### Skylark
+### Starlark
 
-Skylark is Bazel's domain-specific language for writing BUILD definitions and rules.
+Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.
 
 - [Official documentation](https://docs.bazel.build/versions/master/skylark/language.html)
+- [Language description](https://github.com/bazelbuild/starlark/)
 - [Skylark in Go](https://github.com/google/skylark)
-- [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
-- [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
+- [Skydoc](https://github.com/bazelbuild/skydoc) - Starlark documentation generator
+- [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Starlark
 - [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
 
 ### Remote caching and execution
