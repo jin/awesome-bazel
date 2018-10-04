@@ -501,13 +501,14 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 ### Editors
 
-- [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
+- [IntelliJ plugin (compatible with Android Studio and CLion)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 - Emacs Support
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode): 
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
+- [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 
 ### BUILD file tools
 
