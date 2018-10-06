@@ -550,6 +550,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 #### Community
 
 - [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
+- [Real-world Bazel](https://github.com/cgbystrom/real-world-bazel) - BUILD files collected from public GitHub projects for reference and learning purposes.
 
 ### Projects
 
