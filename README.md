@@ -314,6 +314,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Pandoc</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/ProdriveTechnologies/bazel-pandoc">ProdriveTechnologies/bazel-pandoc</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>PHP</td>
             <td>
                 <ul>
