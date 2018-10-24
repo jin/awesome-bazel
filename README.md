@@ -22,7 +22,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 - [Rules](#rules)
 - [Tooling](#tooling)
-  - [Skylark](#skylark)
+  - [Starlark](#starlark)
   - [Migration](#migration)
   - [Editor plugins](#editors)
   - [Misc](#misc)
@@ -85,6 +85,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>BOSH</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/xoebus/rules_bosh">xoebus/rules_bosh</a></li>
+                </ul>
+            </td>
+        </tr>	
+        <tr>
             <td>C++</td>
             <td>
                 <ul>
@@ -102,6 +110,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_closure">bazelbuild/rules_closure</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>CMake</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_foreign_cc">bazelbuild/rules_foreign_cc</a></li>
                 </ul>
             </td>
         </tr>
@@ -198,6 +214,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/stackb/rules_hugo">stackb/rules_hugo</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Idris</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/BryghtWords/rules_idris">BryghtWords/rules_idris</a></li>
                 </ul>
             </td>
         </tr>
@@ -311,6 +335,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Pandoc</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/ProdriveTechnologies/bazel-pandoc">ProdriveTechnologies/bazel-pandoc</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>PHP</td>
             <td>
                 <ul>
@@ -326,6 +358,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>Purescript</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/felixmulder/rules_purescript">felixmulder/rules_purescript</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>Python</td>
             <td>
@@ -338,7 +378,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/FormationAI/hazel">FormationAI/rules_pyz</a>: Python rules with PyPI package support</div>
+                        <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support</div>
                     </li>
                     <li>
                         <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
@@ -346,6 +386,12 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li>
                         <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
                     </li>
+		    <li>
+                        <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
+                    </li>
+	            <li>
+			<div><a href="https://github.com/apt-itude/rules_pip">apt-itude/rules_pip</a>: Rules for <code>pip</code> requirements files </div>
+		    </li>
                 </ul>
             </td>
         </tr>
@@ -453,14 +499,16 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [Asana/bazeltsc](https://github.com/Asana/bazeltsc) - TypeScript compiler that knows how to run as a Bazel persistent worker
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 
-### Skylark
+### Starlark
 
-Skylark is Bazel's domain-specific language for writing BUILD definitions and rules.
+Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.
 
 - [Official documentation](https://docs.bazel.build/versions/master/skylark/language.html)
-- [Skylark in Go](https://github.com/google/skylark)
-- [Skydoc](https://github.com/bazelbuild/skydoc) - Skylark documentation generator
-- [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Skylark
+- [Language description](https://github.com/bazelbuild/starlark/)
+- [Starlark in Go](https://github.com/google/skylark)
+- [Starlark in Rust](https://github.com/google/starlark-rust)
+- [Skydoc](https://github.com/bazelbuild/skydoc) - Starlark documentation generator
+- [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Starlark
 - [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
 
 ### Remote caching and execution
@@ -486,13 +534,14 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 ### Editors
 
-- [IntelliJ plugin (compatible with Android Studio)](https://ij.bazel.build)
+- [IntelliJ plugin (compatible with Android Studio and CLion)](https://ij.bazel.build)
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 - Emacs Support
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode): 
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
+- [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 
 ### BUILD file tools
 
@@ -534,6 +583,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 #### Community
 
 - [Aspects: the fan-fic of build rules](https://www.kchodorow.com/blog/2017/01/10/aspects-the-fan-fic-of-build-rules/)
+- [Real-world Bazel](https://github.com/cgbystrom/real-world-bazel) - BUILD files collected from public GitHub projects for reference and learning purposes.
 
 ### Projects
 
@@ -611,6 +661,8 @@ A list of projects built with Bazel:
 
 ### Community
 
+- [#bazelbuild on Slack](https://bazel-slackin.herokuapp.com)
+- [BuildTeamWorld on Slack](https://buildteamworld.herokuapp.com) - A community slack for BuildFarm, BuildGrid, Bazel and general build teams.
 - [`#bazel` on Freenode](http://webchat.freenode.net/?channels=bazel)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bazel)
 - [Bazel users mailing list](https://groups.google.com/forum/#!forum/bazel-discuss)
