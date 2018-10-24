@@ -101,6 +101,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>CMake</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/bazelbuild/rules_foreign_cc">bazelbuild/rules_foreign_cc</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>CocoaPods</td>
             <td>
                 <ul>
