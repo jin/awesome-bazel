@@ -376,6 +376,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 		    <li>
                         <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
                     </li>
+	            <li>
+			<div><a href="https://github.com/apt-itude/rules_pip">apt-itude/rules_pip</a>: Rules for <code>pip</code> requirements files </div>
+		    </li>
                 </ul>
             </td>
         </tr>
