@@ -537,6 +537,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
+- [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
 
 ### BUILD file tools
 
