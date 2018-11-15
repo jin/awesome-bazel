@@ -144,7 +144,12 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>Docker</td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bazelbuild/rules_docker">bazelbuild/rules_docker</a></li>
+                    <li>
+                        <a href="https://github.com/bazelbuild/rules_docker">bazelbuild/rules_docker</a>
+                    </li>
+                    <li>
+                        <div><a href="https://github.com/rmohr/rules_container_rpm">rmohr/rules_container_rpm</a>: Install RPMs without a container daemon with bazel</div>
+                    </li>
                 </ul>
             </td>
         </tr>
