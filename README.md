@@ -551,6 +551,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode): 
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
+- [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 - [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
 
