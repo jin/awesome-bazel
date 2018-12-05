@@ -190,6 +190,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li>
                         <div><a href="https://github.com/bazelbuild/bazel-gazelle#update-repos">update-repos</a>: Tool in Gazelle for adding Go dependencies as `go_repository` to WORKSPACE</div>
                     </li>
+                    <li>
+                        <div><a href="https://github.com/ActiveState/rules_vendor">ActiveState/rules_vendor</a>: Bazel support for packaging Go vendored dependencies</div>
+                    </li>	
                 </ul>
             </td>
         </tr>
