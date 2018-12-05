@@ -307,13 +307,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
-            <td>Node.js</td>
+            <td>Node.js / JavaScript</td>
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_nodejs">bazelbuild/rules_nodejs</a></li>
                     <li><a href="https://github.com/dropbox/rules_node">dropbox/rules_node</a></li>
                     <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
                     <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
+	            <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</al></li>
                 </ul>
             </td>
         </tr>
