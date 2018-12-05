@@ -302,6 +302,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Maya</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/mdilena/bazel-maya">mdilena/bazel-maya</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Nixpkgs</td>
             <td>
                 <ul>
