@@ -537,6 +537,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Self-hosted remote caching and execution service
 - [EdSchouten/bazel-buildbarn](https://github.com/EdSchouten/bazel-buildbarn) - Alternative buildfarm implementation written in Go
+- [BuildGrid](https://gitlab.com/BuildGrid/buildgrid) - Alternative buildfarm implementation written in Python
 - [Asana/bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
 
 ### Project generators
