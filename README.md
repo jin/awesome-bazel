@@ -192,7 +192,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     </li>
                     <li>
                         <div><a href="https://github.com/ActiveState/rules_vendor">ActiveState/rules_vendor</a>: Bazel support for packaging Go vendored dependencies</div>
-                    </li>	
+                    </li>
+                    <li>
+                        <div><a href="https://github.com/jmhodges/bazel_gomock">jmhodges/bazel_gomock</a>: Support for generating code with `mockgen`</div>
+                    </li>
                 </ul>
             </td>
         </tr>
