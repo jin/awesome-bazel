@@ -87,6 +87,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>Bison</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/jmillikin/rules_bison">jmillikin/rules_bison</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>BOSH</td>
             <td>
