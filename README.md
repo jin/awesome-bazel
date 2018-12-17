@@ -302,6 +302,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>M4</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/jmillikin/rules_m4">jmillikin/rules_m4</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Maven</td>
             <td>
                 <ul>
