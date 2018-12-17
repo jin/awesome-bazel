@@ -177,6 +177,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>Flex</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/jmillikin/rules_flex">jmillikin/rules_flex</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>Go</td>
             <td>
