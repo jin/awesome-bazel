@@ -443,6 +443,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Ragel</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/jmillikin/rules_ragel">jmillikin/rules_ragel</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>R</td>
             <td>
                 <ul>
