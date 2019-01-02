@@ -538,6 +538,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_typescript">bazelbuild/rules_typescript</a></li>
+                    <li><a href="https://github.com/sconover/rules_multi_tsc">sconover/rules_multi_tsc</a>: Bazel rules that support breaking a typescript codebase into small, independently-compilable libraries.</li>
                 </ul>
             </td>
         </tr>
