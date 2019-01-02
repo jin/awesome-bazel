@@ -314,7 +314,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li>
-                      <div><a href="https://github.com/johnynek/bazel-deps">johnynek/bazeldeps</a>: Generate Bazel dependencies transitively for Maven artifacts, with Scala support.</div>
+                      <div><a href="https://github.com/johnynek/bazel-deps">johnynek/bazel-deps</a>: Generate Bazel dependencies transitively for Maven artifacts, with Scala support.</div>
                     </li>
                     <li>
                         <div><a href="https://github.com/pubref/rules_maven">pubref/rules_maven</a></div>
@@ -324,6 +324,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     </li>
                     <li>
                         <div><a href="https://github.com/bazelbuild/migration-tooling">bazelbuild/migration-tooling</a>: Migrate an existing Maven project to Bazel </div>
+                    </li>
+                    <li>
+                        <div><a href="https://github.com/jin/rules_maven">jin/rules_maven</a>:A lightweight Bazel repository rule for fetching transitive Maven artifacts using Coursier</div>
                     </li>
                 </ul>
             </td>
