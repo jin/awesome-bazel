@@ -240,6 +240,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Homebrew</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/tmc/rules_homebrew">tmc/rules_homebrew</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Hugo</td>
             <td>
                 <ul>
