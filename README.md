@@ -334,7 +334,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/bazelbuild/migration-tooling">bazelbuild/migration-tooling</a>: Migrate an existing Maven project to Bazel </div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/jin/rules_maven">jin/rules_maven</a>:A lightweight Bazel repository rule for fetching transitive Maven artifacts using Coursier</div>
+                        <div><a href="https://github.com/jin/rules_maven">jin/rules_maven</a>: A lightweight Bazel repository rule for fetching transitive Maven artifacts using Coursier</div>
+                    </li>
+                    <li>
+                        <div><a href="https://github.com/menny/bazel-mvn-deps">menny/bazel-mvn-deps</a>: A simple Maven dependency graph generator for Bazel</div>
                     </li>
                 </ul>
             </td>
