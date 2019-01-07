@@ -514,6 +514,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
+                    <li><a href="https://github.com/higherkindness/rules_scala">higherkindness/rules_scala</a></li>
                 </ul>
             </td>
         </tr>
