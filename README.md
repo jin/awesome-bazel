@@ -331,6 +331,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/bazelbuild/gmaven_rules">bazelbuild/gmaven_rules</a>: Repository rules for Maven artifacts hosted on Google Maven repository</div>
                     </li>
                     <li>
+                      <div><a href="https://github.com/square/bazel_maven_repository">square/bazel_maven_repository</a>: Access maven deps as "@maven//some/maven/group_id:artifact_id" (incorporating transitive dependencies)</div>
+                    </li>
+                    <li>
                         <div><a href="https://github.com/bazelbuild/migration-tooling">bazelbuild/migration-tooling</a>: Migrate an existing Maven project to Bazel </div>
                     </li>
                     <li>
