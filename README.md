@@ -530,6 +530,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>Terraform</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/ceason/rules_terraform">ceason/rules_terraform</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Twirl</td>
             <td>
                 <ul>
