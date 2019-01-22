@@ -22,7 +22,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Editor plugins](#editors)
   - [Misc](#misc)
 - [Resources](#resources)
-	- [Tutorials](#tutorials)
+  - [Tutorials](#tutorials)
   - [Projects](#projects)
   - [Articles](#articles)
   - [Videos](#videos)
@@ -31,7 +31,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Community](#community)
   - [Misc](#misc)
 
-  
+
 ## Rules
 
 <table class="table table-condensed table-bordered table-params">
@@ -102,7 +102,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li><a href="https://github.com/xoebus/rules_bosh">xoebus/rules_bosh</a></li>
                 </ul>
             </td>
-        </tr>	
+        </tr>
         <tr>
             <td>C++</td>
             <td>
@@ -603,7 +603,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [Lavender](https://github.com/tmandry/lavender) - Generate Visual Studio projects that uses Bazel for the actual building
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
-- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects. 
+- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects.
 - [Pazel](https://github.com/tuomasr/pazel) - Generate Bazel BUILD files for Python
 - [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
 - [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace
@@ -615,7 +615,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [Eclipse plugin](https://github.com/bazelbuild/eclipse)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 - Emacs Support
-	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode): 
+	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode):
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
 - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
