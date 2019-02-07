@@ -354,6 +354,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             </td>
         </tr>
         <tr>
+            <td>NativeScript</td>
+            <td>
+                <ul>
+                    <li><a href="https://github.com/NativeScript/nativescript-dev-bazel">NativeScript/nativescript-dev-bazel</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td>Nixpkgs</td>
             <td>
                 <ul>
