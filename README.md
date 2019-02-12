@@ -542,7 +542,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <td>
                 <ul>
                     <li><a href="https://github.com/ceason/rules_terraform">ceason/rules_terraform</a></li>
-			<li><a href="https://github.com/mitchelldavis/rules_terraform">mitchelldavis/rules_terraform</a></li>
+	   	    <li><a href="https://github.com/mitchelldavis/rules_terraform">mitchelldavis/rules_terraform</a></li>
                 </ul>
             </td>
         </tr>
