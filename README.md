@@ -459,6 +459,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                         <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
                     </li>
 		    <li>
+                        <div><a href="https://github.com/zenreach/ramsay">zenreach/ramsay</a>: Generate Bazel BUILD files for Python rules_pyz </div>
+                    </li>
+		    <li>
                         <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
                     </li>
 	            <li>
@@ -612,6 +615,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [EdSchouten/bazel-buildbarn](https://github.com/EdSchouten/bazel-buildbarn) - Alternative buildfarm implementation written in Go
 - [BuildGrid](https://gitlab.com/BuildGrid/buildgrid) - Alternative buildfarm implementation written in Python
 - [Asana/bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
+- [Zenreach/hydroponics](https://github.com/zenreach/hydroponics) - Serverless CI for Bazel making use of S3 for caching.
 
 ### Project generators
 
