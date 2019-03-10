@@ -378,6 +378,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                     <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
                     <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
 	            <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</al></li>
+                    <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</al></li>
                 </ul>
             </td>
         </tr>
