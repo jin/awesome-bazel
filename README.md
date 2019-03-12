@@ -334,10 +334,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
                       <div><a href="https://github.com/square/bazel_maven_repository">square/bazel_maven_repository</a>: Access maven deps as "@maven//some/maven/group_id:artifact_id" (incorporating transitive dependencies)</div>
                     </li>
                     <li>
-                        <div><a href="https://github.com/bazelbuild/migration-tooling">bazelbuild/migration-tooling</a>: Migrate an existing Maven project to Bazel </div>
-                    </li>
-                    <li>
-                        <div><a href="https://github.com/jin/rules_maven">jin/rules_maven</a>: A lightweight Bazel repository rule for fetching transitive Maven artifacts using Coursier</div>
+                        <div><a href="https://github.com/bazelbuild/rules_jvm_external">bazelbuild/rules_jvm_external</a>: Rules to resolve and fetch artifacts transitively from Maven repositories</div>
                     </li>
                     <li>
                         <div><a href="https://github.com/menny/bazel-mvn-deps">menny/bazel-mvn-deps</a>: A simple Maven dependency graph generator for Bazel</div>
