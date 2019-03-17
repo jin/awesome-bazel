@@ -374,205 +374,205 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/dropbox/rules_node">dropbox/rules_node</a></li>
           <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
           <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
-          <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</al></li>
-<li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</al></li>
-</ul>
-</td>
-</tr>
-<tr>
-  <td>OCaml</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/jin/rules_ocaml">jin/rules_ocaml</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>OCI Containers</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/guymers/bazel_rules_container">guymers/bazel_rules_container</a></li>
-      <li><a href="https://github.com/guymers/containers_by_bazel">guymers/containers_by_bazel</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>OpenAPI/Swagger</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/meetup/rules_openapi">meetup/rules_openapi</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Pandoc</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/ProdriveTechnologies/bazel-pandoc">ProdriveTechnologies/bazel-pandoc</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>PHP</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/kburnik/php_codebase">kburnik/php_codebase</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Protobuf</td>
-  <td>
-    <ul>
-      <li><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Purescript</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/felixmulder/rules_purescript">felixmulder/rules_purescript</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Python</td>
-  <td>
-    <ul>
-      <li><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></li>
-      <li><a href="https://github.com/bazelbuild/rules_python/">bazelbuild/rules_python</a></li>
-    </ul>
-    <ul>
-      <li>
-        <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
-      </li>
-      <li>
-        <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support</div>
-      </li>
-      <li>
-        <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
-      </li>
-      <li>
-        <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
-      </li>
-      <li>
-        <div><a href="https://github.com/zenreach/ramsay">zenreach/ramsay</a>: Generate Bazel BUILD files for Python rules_pyz </div>
-      </li>
-      <li>
-        <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
-      </li>
-      <li>
-        <div><a href="https://github.com/apt-itude/rules_pip">apt-itude/rules_pip</a>: Rules for <code>pip</code> requirements files </div>
-      </li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Ragel</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/jmillikin/rules_ragel">jmillikin/rules_ragel</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>R</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/grailbio/rules_r">grailbio/rules_r</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>ReasonML, BuckleScript</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/ostera/rules_reason">ostera/rules_reason</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Ruby</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/yugui/rules_ruby">yugui/rules_ruby</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Rust</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/bazelbuild/rules_rust">bazelbuild/rules_rust</a></li>
-    </ul>
-    <ul>
-      <li>
-        <div><a href="https://github.com/google/cargo-raze">google/cargo-raze</a>: Generate Bazel BUILD files for Rust Crates</div>
-      </li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Sass</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/bazelbuild/rules_sass">bazelbuild/rules_sass</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Scala</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
-      <li><a href="https://github.com/higherkindness/rules_scala">higherkindness/rules_scala</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Swift</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/bazelbuild/rules_swift">bazelbuild/rules_swift</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Terraform</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/ceason/rules_terraform">ceason/rules_terraform</a></li>
-      <li><a href="https://github.com/mitchelldavis/rules_terraform">mitchelldavis/rules_terraform</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Twirl</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/lucidsoftware/rules_twirl">lucidsoftware/rules_twirl</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>TypeScript</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/bazelbuild/rules_typescript">bazelbuild/rules_typescript</a></li>
-      <li><a href="https://github.com/sconover/rules_multi_tsc">sconover/rules_multi_tsc</a>: Bazel rules that support breaking a typescript codebase into small, independently-compilable libraries.</li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>Web (HTML, CSS, JS, assets)</td>
-  <td>
-    <ul>
-      <li><a href="https://github.com/quittle/rules_web">quittle/rules_web</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
+          <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</a></li>
+          <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>OCaml</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/jin/rules_ocaml">jin/rules_ocaml</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>OCI Containers</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/guymers/bazel_rules_container">guymers/bazel_rules_container</a></li>
+          <li><a href="https://github.com/guymers/containers_by_bazel">guymers/containers_by_bazel</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>OpenAPI/Swagger</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/meetup/rules_openapi">meetup/rules_openapi</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Pandoc</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/ProdriveTechnologies/bazel-pandoc">ProdriveTechnologies/bazel-pandoc</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/kburnik/php_codebase">kburnik/php_codebase</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Protobuf</td>
+      <td>
+        <ul>
+          <li><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Purescript</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/felixmulder/rules_purescript">felixmulder/rules_purescript</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>
+        <ul>
+          <li><a href="https://docs.bazel.build/versions/master/be/python.html">https://docs.bazel.build/versions/master/be/python.html</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_python/">bazelbuild/rules_python</a></li>
+        </ul>
+        <ul>
+          <li>
+            <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
+          </li>
+          <li>
+            <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support</div>
+          </li>
+          <li>
+            <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
+          </li>
+          <li>
+            <div><a href="https://github.com/tuomasr/pazel">tuomasr/pazel</a>: Generate Bazel BUILD files for Python </div>
+          </li>
+          <li>
+            <div><a href="https://github.com/zenreach/ramsay">zenreach/ramsay</a>: Generate Bazel BUILD files for Python rules_pyz </div>
+          </li>
+          <li>
+            <div><a href="https://github.com/weisi/bazel_for_gcloud_python">weisi/bazel_for_gcloud_python</a>: Rules to build Python 3 and deploy to Google App Engine and Google Cloud Functions</div>
+          </li>
+          <li>
+            <div><a href="https://github.com/apt-itude/rules_pip">apt-itude/rules_pip</a>: Rules for <code>pip</code> requirements files </div>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Ragel</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/jmillikin/rules_ragel">jmillikin/rules_ragel</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>R</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/grailbio/rules_r">grailbio/rules_r</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>ReasonML, BuckleScript</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/ostera/rules_reason">ostera/rules_reason</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Ruby</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/yugui/rules_ruby">yugui/rules_ruby</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Rust</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_rust">bazelbuild/rules_rust</a></li>
+        </ul>
+        <ul>
+          <li>
+            <div><a href="https://github.com/google/cargo-raze">google/cargo-raze</a>: Generate Bazel BUILD files for Rust Crates</div>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Sass</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_sass">bazelbuild/rules_sass</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Scala</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
+          <li><a href="https://github.com/higherkindness/rules_scala">higherkindness/rules_scala</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_swift">bazelbuild/rules_swift</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Terraform</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/ceason/rules_terraform">ceason/rules_terraform</a></li>
+          <li><a href="https://github.com/mitchelldavis/rules_terraform">mitchelldavis/rules_terraform</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Twirl</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/lucidsoftware/rules_twirl">lucidsoftware/rules_twirl</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_typescript">bazelbuild/rules_typescript</a></li>
+          <li><a href="https://github.com/sconover/rules_multi_tsc">sconover/rules_multi_tsc</a>: Bazel rules that support breaking a typescript codebase into small, independently-compilable libraries.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Web (HTML, CSS, JS, assets)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/quittle/rules_web">quittle/rules_web</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## Tooling
