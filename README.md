@@ -178,6 +178,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Elm</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/EdSchouten/rules_elm">EdSchouten/rules_elm</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Emscripten</td>
       <td>
         <ul>
