@@ -649,6 +649,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 - [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
+- [georgewfraser/java-language-server](https://github.com/georgewfraser/java-language-server) - Java Language Server (LSP) with support for Bazel-built projects
 
 ### BUILD file tools
 
