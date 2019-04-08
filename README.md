@@ -248,6 +248,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Helm (Kubernetes)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/tmc/rules_helm">tmc/rules_helm</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Homebrew</td>
       <td>
         <ul>
