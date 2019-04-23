@@ -608,6 +608,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
 - [philwo/bazelisk](https://github.com/philwo/bazelisk) - A user-friendly launcher for Bazel
+- [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
 
 ### Starlark
 
