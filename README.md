@@ -200,7 +200,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/jmillikin/rules_flex">jmillikin/rules_flex</a></li>
         </ul>
       </td>
-    </tr>
+    </tr> 
     <tr>
       <td>Go</td>
       <td>
@@ -223,6 +223,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>Graal</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/andyscott/rules_graal">andyscott/rules_graal</a></li>
+        </ul>
+      </td>
+    </tr> 
     <tr>
       <td>GWT</td>
       <td>
