@@ -684,6 +684,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [bazelize-maven-plugin](https://github.com/OrhanKupusoglu/bazelize-maven-plugin) - Maven plugin for migration from Maven to Bazel
 - [bazelbuild/gmaven_rules](https://github.com/bazelbuild/gmaven_rules) - Transitive WORKSPACE rules for Google's Maven repository
 - [stripe/sbt-bazel](https://github.com/stripe/sbt-bazel) - Easily convert SBT projects to Bazel workspaces
+- [wix-incubator/exodus](https://github.com/wix-incubator/exodus) - Easily migrate your JVM code from Maven to Bazel
 
 ## Resources
 
