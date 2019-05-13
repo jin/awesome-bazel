@@ -55,6 +55,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Amazon web services (AWS)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/evertz/ev_rules_aws">evertz/ev_rules_aws</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Android</td>
       <td>
         <ul>
