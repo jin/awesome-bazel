@@ -240,6 +240,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr> 
     <tr>
+      <td>Grafana</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/etsy/rules_grafana">etsy/rules_grafana</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>GWT</td>
       <td>
         <ul>
