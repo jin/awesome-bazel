@@ -17,6 +17,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 - [Rules](#rules)
 - [Tooling](#tooling)
+  - [Toolchains](#toolchains)
   - [Starlark](#starlark)
   - [Migration](#migration)
   - [Editor plugins](#editors)
@@ -634,6 +635,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [philwo/bazelisk](https://github.com/philwo/bazelisk) - A user-friendly launcher for Bazel
 - [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
 
+### Toolchains
+
+Toolchains enable authors to decouple their rule logic from platform-based selection of tools.
+
+- [bazelbuilds/bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) -  Bazel toolchain configurations to enable Google Cloud Remote Build Execution via Docker containers
+- [vsco/bazel-toolchains](https://github.com/vsco/bazel-toolchains) - A collection of Bazel C++ build infrastructure based on Chromium's LLVM toolchain
+- [grailbio/bazel-toolchain](https://github.com/grailbio/bazel-toolchain) - LLVM toolchain for bazel
+
+
 ### Starlark
 
 Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.
@@ -717,6 +727,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [C++](https://docs.bazel.build/versions/master/tutorial/cpp.html)
 - [Android](https://docs.bazel.build/versions/master/tutorial/android-app.html)
 - [iOS](https://docs.bazel.build/versions/master/tutorial/ios-app.html)
+
+#### Toolchains
+- [c++ toolchains](https://docs.bazel.build/versions/master/tutorial/cc-toolchain-config.html)
 
 #### Codelabs
 
