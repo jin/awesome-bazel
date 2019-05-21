@@ -208,7 +208,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/jmillikin/rules_flex">jmillikin/rules_flex</a></li>
         </ul>
       </td>
-    </tr> 
+    </tr>
     <tr>
       <td>Go</td>
       <td>
@@ -238,7 +238,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/andyscott/rules_graal">andyscott/rules_graal</a></li>
         </ul>
       </td>
-    </tr> 
+    </tr>
     <tr>
       <td>Grafana</td>
       <td>
@@ -650,9 +650,9 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 ### Remote caching and execution
 
 - [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
-- [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Self-hosted remote caching and execution service
-- [Buildbarn](https://github.com/buildbarn) - Alternative buildfarm implementation written in Go
-- [BuildGrid](https://gitlab.com/BuildGrid/buildgrid) - Alternative buildfarm implementation written in Python
+- [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Self-hosted remote caching and execution service written in Java
+- [Buildbarn](https://github.com/buildbarn) - Self-hosted remote caching and execution service written in Go
+- [BuildGrid](https://gitlab.com/BuildGrid/buildgrid) - Self-hosted remote caching and execution service written in Python
 - [Asana/bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
 - [Zenreach/hydroponics](https://github.com/zenreach/hydroponics) - Serverless CI for Bazel making use of S3 for caching.
 
