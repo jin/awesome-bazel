@@ -816,7 +816,7 @@ A list of projects built with Bazel:
 
 ### Community
 
-- [#bazelbuild on Slack](https://bazel-slackin.herokuapp.com)
+- [#bazelbuild on Slack](https://slack.bazel.build)
 - [BuildTeamWorld on Slack](https://buildteamworld.herokuapp.com) - A community slack for BuildFarm, BuildGrid, Bazel and general build teams.
 - [`#bazel` on Freenode](http://webchat.freenode.net/?channels=bazel)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bazel)
