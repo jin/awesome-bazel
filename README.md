@@ -412,6 +412,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_nodejs">bazelbuild/rules_nodejs</a></li>
+	  <li><a href="https://github.com/ecosia/bazel_rules_nodejs_contrib">ecosia/bazel_rules_nodejs_contrib</a></li>
           <li><a href="https://github.com/dropbox/rules_node">dropbox/rules_node</a></li>
           <li><a href="https://github.com/pubref/rules_node">pubref/rules_node</a></li>
           <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
@@ -679,6 +680,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
 - [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace
 - [create-bazel-workspace](https://github.com/jin/create-bazel-workspace) - Generate a new multi-language Bazel workspace with minimal configuration
+- [Gazelle JS Plugin](https://github.com/ecosia/bazel_rules_nodejs_contrib#build-file-generation) Generate BUILD files automatically for an existing Javascript or Typescript project with npm dependency analysis.
 
 ### Editors
 
