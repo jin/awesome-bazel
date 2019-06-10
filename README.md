@@ -780,6 +780,7 @@ A list of projects built with Bazel:
 
 ### Videos
 
+- [KubeCon Europe 2019: Reproducible Development and Deployment with Bazel and Telepresence](https://www.youtube.com/watch?v=tD0FIlxO1AQ) - Christian Roggia (Engel & Völkers)
 - [ScalaSphere 2018: Using Bazel to build Scala](https://www.youtube.com/watch?v=iSLDQPsWvGs) - Andy Scott (Stripe)
 - [GopherChina 2018: Bazel build //:Go](https://www.youtube.com/watch?v=oTS_xxZyhG8) - Yuan He (流利说/liulishuo.com)
 - [How I love being ejected: Customizing your Angular build with Bazel](https://www.youtube.com/watch?v=ieRJwFGWEOM) - Greg Magolan (Angular team)
