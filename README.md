@@ -119,6 +119,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></li>
         </ul>
         <ul>
+          <li><a href="https://github.com/bazelbuild/rules_cc">bazelbuild/rules_cc</a></li>
+        </ul>
+        <ul>
           <li>
             <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
           </li>
@@ -310,6 +313,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/java.html">https://docs.bazel.build/versions/master/be/java.html</a></li>
         </ul>
+        </ul>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_java">bazelbuild/rules_java</a></li>
+        </ul>
         <ul>
           <li>
             <div><a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a> (Jadep): Generate BUILD files automatically for an existing Java project with class dependency analysis.</div>
@@ -467,6 +474,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></li>
+        </ul>
+        </ul>
+        <ul>
+          <li><a href="https://github.com/Yannic/rules_proto">bazelbuild/rules_proto</a></li>
         </ul>
       </td>
     </tr>
