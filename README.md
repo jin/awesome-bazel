@@ -584,6 +584,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>SonarQube</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/Zetten/bazel-sonarqube">Zetten/bazel-sonarqube</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Swift</td>
       <td>
         <ul>
