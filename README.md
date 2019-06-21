@@ -700,6 +700,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace
 - [create-bazel-workspace](https://github.com/jin/create-bazel-workspace) - Generate a new multi-language Bazel workspace with minimal configuration
 - [Gazelle JS Plugin](https://github.com/ecosia/bazel_rules_nodejs_contrib#build-file-generation) Generate BUILD files automatically for an existing Javascript or Typescript project with npm dependency analysis.
+- [llvmbzlgen](https://github.com/kythe/llvmbzlgen) - Tools for generating Bazel BUILD targets from LLVM CMakeLists
 
 ### Editors
 
