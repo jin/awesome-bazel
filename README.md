@@ -475,7 +475,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/protocol-buffer.html">https://docs.bazel.build/versions/master/be/protocol-buffer.html</a></li>
         </ul>
-        </ul>
         <ul>
           <li><a href="https://github.com/Yannic/rules_proto">bazelbuild/rules_proto</a></li>
         </ul>
