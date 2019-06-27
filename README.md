@@ -252,6 +252,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Groovy</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_groovy">bazelbuild/rules_groovy</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>GWT</td>
       <td>
         <ul>
