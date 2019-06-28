@@ -338,6 +338,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_kotlin">bazelbuild/rules_kotlin</a></li>
         </ul>
+        <ul>
+          <li><a href="https://github.com/gruber/rules_kotlin">gruber/rules_kotlin</a> (a temporary maintenance fork of the legacy rules above, until Google releases their updated rules, including 1.3 support)</li>
+        </ul>
       </td>
     </tr>
     <tr>
