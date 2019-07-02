@@ -653,6 +653,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
+- [graknlabs/bazel-distribution](https://github.com/graknlabs/bazel-distribution) - Assemble and deploy software distributions to common platforms, e.g. APT, Brew, GitHub, Maven, NPM, PIP, RPM, etc.
 - [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Automatically run Bazel commands when source files change
 - [nadirizr/dazel](https://github.com/nadirizr/dazel) - Run Bazel inside a Docker container via a seamless proxy
 - [spotify/bazel-tools](https://github.com/spotify/bazel-tools) - Spotify's production tools for dealing with very large Bazel-managed repositories.
