@@ -493,7 +493,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/stackb/rules_proto">stackb/rules_proto</a>: Modern bazel build rules for protobuf / gRPC</li>
         </ul>
         <ul>
-          <li><a href="https://github.com/Yannic/rules_proto">Yannic/rules_proto</a></li>
+          <li><a href="https://github.com/bazelbuild/rules_proto">bazelbuild/rules_proto</a>: Starlark implementation of the Protobuf rules in Bazel</li>
         </ul>
       </td>
     </tr>
