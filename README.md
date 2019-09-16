@@ -78,6 +78,12 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_apple">bazelbuild/rules_apple</a></li>
         </ul>
+        <ul>
+          <li><a href="https://github.com/ios-bazel-users/ios-bazel-users">ios-bazel-users/ios-bazel-users</a></li>: Resources for using Bazel for iOS development
+        </ul>
+        <ul>
+          <li><a href="https://github.com/thii/rules_apple_extras">thii/rules_apple_extras</a></li>: Extra rules for Apple platforms
+        </ul>
       </td>
     </tr>
     <tr>
