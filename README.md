@@ -155,6 +155,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>CODEOWNERS</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/zegl/rules_codeowners">zegl/rules_codeowners</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>D</td>
       <td>
         <ul>
