@@ -27,6 +27,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Projects](#projects)
   - [Articles](#articles)
   - [Videos](#videos)
+  - [Podcasts](#podcasts)
+  - [Books](#books)
   - [Slides](#slides)
   - [Blogs](#blogs)
   - [Community](#community)
@@ -863,6 +865,13 @@ A list of projects built with Bazel:
 - [Bazel at FrOSCon](https://www.youtube.com/watch?v=8p0RquTT69M) - Klaus Aehlig (Google)
 - [Building Python with Bazel](https://www.youtube.com/watch?v=i2Gu7lMVeEw) - Benjamin Peterson (Dropbox)
 - [Bazel at the Dart Developer Summit 2016](https://www.youtube.com/watch?v=zZnGUknpFMM) - Damien Martin-Guillerez (Google)
+
+### Podcasts
+- [Bazel with Tony Aiuto; Google Cloud Podcast #153 | Oct 31, 2018](https://www.gcppodcast.com/categories/bazel/) - Tony Aiuto
+- [AiA 247: Bazel with Alex Eagle; Adventures in Angular | Jul 9th 2019](https://player.fm/series/all-angular-podcasts-by-devchattv/aia-247-bazel-with-alex-eagle) - Alex Eagle (Google)
+
+### Books
+- [Beginning Bazel: Building and Testing for Java, Go, and More](https://www.amazon.com/Beginning-Bazel-Building-Testing-Java/dp/1484251938) - P.J. McNerney;  Apress, 1st ed. edition (December 24, 2019) 978-1484251935
 
 ### Slides
 
