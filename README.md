@@ -21,7 +21,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Starlark](#starlark)
   - [Migration](#migration)
   - [Editor plugins](#editors)
-  - [Misc](#misc)
+  - [Misc](#misc-tooling)
 - [Resources](#resources)
   - [Tutorials](#tutorials)
   - [Projects](#projects)
@@ -32,7 +32,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   - [Slides](#slides)
   - [Blogs](#blogs)
   - [Community](#community)
-  - [Misc](#misc)
+  - [Misc](#misc-resources)
 
 
 ## Rules
@@ -768,6 +768,10 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [stripe/sbt-bazel](https://github.com/stripe/sbt-bazel) - Easily convert SBT projects to Bazel workspaces
 - [wix-incubator/exodus](https://github.com/wix-incubator/exodus) - Easily migrate your JVM code from Maven to Bazel
 
+### <a name="misc-tooling"></a>Misc
+
+- [salesforce/bazel-maven-proxy](https://github.com/salesforce/bazel-maven-proxy/) - A local proxy to access Maven resources behind secure repositories or from the local repo
+
 ## Resources
 
 ### Designs
@@ -888,7 +892,7 @@ A list of projects built with Bazel:
 - [Bazel users mailing list](https://groups.google.com/forum/#!forum/bazel-discuss)
 - [Bazel developers mailing list](https://groups.google.com/forum/#!forum/bazel-dev)
 
-### Misc
+### <a name="misc-resources"></a>Misc
 
 - [Why Google Stores Billions of Lines of Code in a Single Repository
 ](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) ([Video](https://www.youtube.com/watch?v=W71BTkUbdqE) at @Scale 2015)
