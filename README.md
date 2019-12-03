@@ -350,6 +350,11 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <div><a href="https://github.com/bazelbuild/tools_jvm_autodeps">bazelbuild/tools_jvm_autodeps</a> (Jadep): Generate BUILD files automatically for an existing Java project with class dependency analysis.</div>
           </li>
         </ul>
+        <ul>
+          <li>
+            <div><a href="https://github.com/salesforce/bazel-java-builder-template">salesforce/bazel-java-builder-template</a> A template for Java based source code generators.</div>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
