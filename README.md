@@ -352,7 +352,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         </ul>
         <ul>
           <li>
-            <div><a href="https://github.com/salesforce/bazel-java-builder-template">salesforce/bazel-java-builder-template</a> A template for Java based source code generators.</div>
+            <div><a href="https://github.com/salesforce/bazel-java-builder-template">salesforce/bazel-java-builder-template</a>: A template for Java based source code generators.</div>
           </li>
         </ul>
       </td>
