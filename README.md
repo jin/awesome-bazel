@@ -819,6 +819,7 @@ A list of projects built with Bazel:
 	- ABC: Angular Buildtools Convergence [https://g.co/ng/abc](https://g.co/ng/abc)
 - [google/startup-os](https://github.com/google/startup-os) - Working examples of Google's Open Source tools and Cloud.
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
+- [squzy/squzy](https://github.com/squzy/squzy) - is a high-performance open-source monitoring system written in Golang with Bazel. Using Bazel for testing, building and dockerize.
 
 
 ### Articles
@@ -840,6 +841,7 @@ A list of projects built with Bazel:
 - [Migrating from Gradle to Bazel](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel)
 - [Benchmarking the Bazel build system on real-life C++](http://nicolovaligi.com/benchmark-bazel-build-cpp.html)
 - [Migrating Gypsum and CodeSwitch to Bazel](http://jayconrod.com/posts/97/migrating-to-bazel-part-1) - Jay Conrod (Google)
+- [Create Go Monorepo with Go-modules and Bazel](https://medium.com/@tduble94/create-go-monorepo-with-go-modules-and-bazel-95f00cf571d3) - Iurii Panarin
 
 ### Videos
 
