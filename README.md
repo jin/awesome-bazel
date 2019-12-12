@@ -399,6 +399,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+        <td>Manifest of build artifacts</td>
+        <td>
+            <ul>
+                <li><a href="https://github.com/kindlyops/rules_manifest">kindlyops/rules_manifest</a>: Take a list of artifacts such as zip files for AWS Lambda, and collect them into a single directory with each file named by the content hash, along with a JSON manifest of the files and original labels.
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
       <td>Maven</td>
       <td>
         <ul>
