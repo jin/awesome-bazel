@@ -25,6 +25,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [Resources](#resources)
   - [Tutorials](#tutorials)
   - [Projects](#projects)
+  - [Demos](#demos)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Podcasts](#podcasts)
@@ -830,6 +831,11 @@ A list of projects built with Bazel:
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 - [squzy/squzy](https://github.com/squzy/squzy) - is a high-performance open-source monitoring system written in Golang with Bazel. Using Bazel for testing, building and dockerize.
 
+### Demos
+
+Bazel demo projects:
+
+- [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver): Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver).
 
 ### Articles
 
