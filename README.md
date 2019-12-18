@@ -359,6 +359,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>JFlex</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/jflex-de/bazel_rules">jflex-de/bazel_rules</a></li>
+        </ul>
+      </td>
+    </tr>    
+    <tr>
       <td>Kotlin</td>
       <td>
         <ul>
