@@ -118,6 +118,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Brotli</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/brightspace/rules_brotli">Brightspace/rules_brotli</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>C++</td>
       <td>
         <ul>
