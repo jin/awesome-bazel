@@ -51,14 +51,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
   </thead>
   <tbody>
     <tr>
-      <td>.NET (C#, Nuget)</td>
-      <td>
-        <ul>
-          <li><a href="https://github.com/bazelbuild/rules_dotnet">bazelbuild/rules_dotnet</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>Amazon web services (AWS)</td>
       <td>
         <ul>
@@ -130,6 +122,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
           </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_dotnet">bazelbuild/rules_dotnet</a></li>
+          <li><a href="https://github.com/brightspace/rules_csharp">Brightspace/rules_csharp</a>: an alternative (unofficial) design for C# rules</li>
         </ul>
       </td>
     </tr>
