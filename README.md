@@ -1,7 +1,7 @@
 # Awesome Bazel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-	<img height="300" src="https://bazel.build/images/bazel-icon.svg"></img>
+	<img height="300" src="https://bazel.build/images/bazel-icon.svg">
 </p>
 <h3 align="center">{Fast, Correct} - Choose two</h3>
 
@@ -907,8 +907,8 @@ Bazel demo projects:
 - [Bazel at the Dart Developer Summit 2016](https://www.youtube.com/watch?v=zZnGUknpFMM) - Damien Martin-Guillerez (Google)
 
 ### Podcasts
-- [Bazel with Tony Aiuto; Google Cloud Podcast #153 | Oct 31, 2018](https://www.gcppodcast.com/categories/bazel/) - Tony Aiuto
-- [AiA 247: Bazel with Alex Eagle; Adventures in Angular | Jul 9th 2019](https://player.fm/series/all-angular-podcasts-by-devchattv/aia-247-bazel-with-alex-eagle) - Alex Eagle (Google)
+- [Bazel with Tony Aiuto; Google Cloud Podcast #153](https://www.gcppodcast.com/categories/bazel/) Oct 31st, 2018 - Tony Aiuto
+- [AiA 247: Bazel with Alex Eagle; Adventures in Angular](https://player.fm/series/all-angular-podcasts-by-devchattv/aia-247-bazel-with-alex-eagle) Jul 9th, 2019 - Alex Eagle (Google)
 
 ### Books
 - [Beginning Bazel: Building and Testing for Java, Go, and More](https://www.amazon.com/Beginning-Bazel-Building-Testing-Java/dp/1484251938) - P.J. McNerney;  Apress, 1st ed. edition (December 24, 2019) 978-1484251935
