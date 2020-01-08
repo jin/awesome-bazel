@@ -310,6 +310,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/google/cabal2bazel">google/cabal2bazel</a>: Import Cabal packages from Hackage as Bazel packages</div>
           </li>
+          <li>
+            <div><a href="https://github.com/google/hrepl">google/hrepl</a>: Interactive development for Bazel/Haskell rules</div>
+          </li>
         </ul>
       </td>
     </tr>
