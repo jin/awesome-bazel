@@ -586,6 +586,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/apt-itude/rules_pip">apt-itude/rules_pip</a>: Rules for <code>pip</code> requirements files </div>
           </li>
+	  <li>
+            <div><a href="https://github.com/tubular/rules_pygen">tubular/rules_pygen</a>: Rules for generating Bazel Python libraries from requirements.txt </div>
+	  </li>
         </ul>
       </td>
     </tr>
@@ -648,6 +651,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_scala">bazelbuild/rules_scala</a></li>
           <li><a href="https://github.com/higherkindness/rules_scala">higherkindness/rules_scala</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Shell</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/tweag/rules_sh">tweag/rules_sh</a></li>
         </ul>
       </td>
     </tr>
