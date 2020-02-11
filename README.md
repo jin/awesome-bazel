@@ -658,7 +658,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>Shell</td>
       <td>
         <ul>
-          <li><a href="https://github.com/tweag/rules_sh>tweag/rules_sh</a></li>
+          <li><a href="https://github.com/tweag/rules_sh">tweag/rules_sh</a></li>
         </ul>
       </td>
     </tr>
