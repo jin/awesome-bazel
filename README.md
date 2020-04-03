@@ -489,7 +489,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
           <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</a></li>
           <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</a></li>
-          <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/gcloud">dataform-co/dataform/tools/gcloud</a></li>: Rules for deploying Node.js code as gcloud functions (HTTP/PubSub)
+          <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/gcloud">dataform-co/dataform/tools/gcloud</a>: Rules for deploying Node.js code as gcloud functions (HTTP/PubSub)</li>
         </ul>
       </td>
     </tr>
