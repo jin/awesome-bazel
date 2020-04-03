@@ -321,6 +321,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/tmc/rules_helm">tmc/rules_helm</a></li>
+          <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/helm">dataform-co/dataform/tools/helm</a>: Repository rules for downloading Helm charts, and BUILD rules for templating them</li>
         </ul>
       </td>
     </tr>
@@ -488,6 +489,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/zenclabs/bazel-javascript">zenclabs/bazel-javascript</a></li>
           <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</a></li>
           <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</a></li>
+          <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/gcloud">dataform-co/dataform/tools/gcloud</a></li>: Rules for deploying Node.js code as gcloud functions (HTTP/PubSub)
         </ul>
       </td>
     </tr>
