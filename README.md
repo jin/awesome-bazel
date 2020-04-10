@@ -571,7 +571,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <div><a href="https://github.com/benley/bazel_rules_pex">benley/rules_pex</a></div>
           </li>
           <li>
-            <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support</div>
+            <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support (Unmaintained)</div>
           </li>
           <li>
             <div><a href="https://github.com/georgeliaw/rules_wheel">georgeliaw/rules_wheel</a>: Rules for building Python wheels </div>
@@ -590,6 +590,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           </li>
 	  <li>
             <div><a href="https://github.com/tubular/rules_pygen">tubular/rules_pygen</a>: Rules for generating Bazel Python libraries from requirements.txt </div>
+	  </li>
+	  <li>
+            <div><a href="https://github.com/dillon-giacoppo/rules_python_external">dillon-giacoppo/rules_python_external</a>: Rules to resolve and fetch artifacts transitively from the Python Package Index (PyPI)</div>
 	  </li>
         </ul>
       </td>
