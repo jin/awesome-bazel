@@ -355,7 +355,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/java.html">https://docs.bazel.build/versions/master/be/java.html</a></li>
         </ul>
-        </ul>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_java">bazelbuild/rules_java</a></li>
         </ul>
@@ -384,6 +383,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_kotlin">bazelbuild/rules_kotlin</a></li>
+          <li><a href="https://github.com/buildfoundation/bazel_rules_detekt">buildfoundation/bazel_rules_detekt</a></li>
         </ul>
       </td>
     </tr>
