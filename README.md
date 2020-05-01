@@ -625,7 +625,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>Ruby</td>
       <td>
         <ul>
-          <li><a href="https://github.com/yugui/rules_ruby">yugui/rules_ruby</a></li>
+          <li><a href="https://github.com/bazelruby/rules_ruby">bazelruby/rules_ruby</a></li>
         </ul>
       </td>
     </tr>
