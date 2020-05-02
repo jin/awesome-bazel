@@ -229,6 +229,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Emacs Lisp (elisp)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/phst/rules_elisp">phst/rules_elisp</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Emscripten</td>
       <td>
         <ul>
