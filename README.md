@@ -748,6 +748,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
 - [philwo/bazelisk](https://github.com/philwo/bazelisk) - A user-friendly launcher for Bazel
 - [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
+- [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) - Framework for integration tests that call Bazel
+
 
 ### Toolchains
 
@@ -814,8 +816,8 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) contains:
 
-- Buildifier - Prettifier for BUILD files
-- Buildozer - Manipulate BUILD file contents from the command line
+- Buildifier - Prettifier for `BUILD` and `.bzl` files
+- Buildozer - Manipulate `BUILD` file contents from the command line
 - unused_deps - Find unneeded dependencies in BUILD files
 
 ### Migration
