@@ -144,6 +144,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Clojure</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/simuons/rules_clojure">simuons/rules_clojure</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+    <tr>
       <td>Closure</td>
       <td>
         <ul>
