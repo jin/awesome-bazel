@@ -428,6 +428,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/vsco/bazel-toolchains">vsco/bazel-toolchains</a></li>
           <li><a href="https://github.com/grailbio/bazel-toolchain">grailbio/bazel-toolchain</a></li>
+          <li><a href="https://github.com/samolisov/bazel-llvm-bridge">samolisov/bazel-llvm-bridge</a>: Bazel repository_rule for using libraries from a local LLVM in your BUILD files. Supports LLVM, Clang and MLIR. Also provides the 'tablegen' rule.</li>
         </ul>
       </td>
     </tr>
