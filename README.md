@@ -152,7 +152,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
-    <tr>
       <td>Closure</td>
       <td>
         <ul>
