@@ -691,6 +691,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/tweag/rules_sh">tweag/rules_sh</a></li>
+          <li><a href="https://github.com/filmil/bazel-bats">filmil/bazel-bats</a> 
+		    (bats: bash automated testing system)</li>
         </ul>
       </td>
     </tr>
