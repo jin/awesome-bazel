@@ -221,6 +221,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>ebook (pdf, epub, mobi)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/filmil/bazel-ebook">filmil/bazel-ebook</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>ECS</td>
       <td>
         <ul>
