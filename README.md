@@ -792,6 +792,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [Sphinx-Bazel](https://sphinx-bazel.readthedocs.io/en/latest/) - [Sphinx](http://www.sphinx-doc.org/en/master/) extension to read Bazel files to generate documentation ([GitHub](https://github.com/useblocks/sphinx-bazel))
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Starlark
 - [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
+- [Stardbg](https://github.com/laurentlb/stardbg) - A standalone debugger for Starlark
 
 ### Remote caching and execution
 
