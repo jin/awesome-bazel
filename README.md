@@ -830,7 +830,6 @@ Tools for generating WORKSPACE and BUILD files from source code.
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode):
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - VSCode Support
-  - [VSCode](https://github.com/dprogm/vscode-bazel-tools)
   - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
   - [VSCode Bazel Java extension](https://github.com/salesforce/bazel-ls-vscode) - Proof-of-concept (POC) of a Bazel Java development extension for VS Code
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
