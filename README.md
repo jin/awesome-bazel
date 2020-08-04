@@ -822,13 +822,16 @@ Tools for generating WORKSPACE and BUILD files from source code.
 ### Editors
 
 - [IntelliJ plugin (compatible with Android Studio and CLion)](https://ij.bazel.build)
-- [Eclipse plugin](https://github.com/bazelbuild/eclipse)
+- Eclipse Support
+  - [Bazel Eclipse Feature (BEF)](https://github.com/salesforce/bazel-eclipse) - Fork of the abandoned [Google Bazel Eclipse plugin](https://github.com/bazelbuild/eclipse)
+  - [B2Eclipse](https://github.com/salesforce/bazel-ls-eclipse) - Bazel Eclipse plugin based on [Eclipse JDT LS](https://github.com/eclipse/eclipse.jdt.ls)
 - [Vim plugin](https://github.com/bazelbuild/vim-bazel)
 - Emacs Support
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode):
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
-- [VSCode](https://github.com/dprogm/vscode-bazel-tools)
-- [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
+- VSCode Support
+  - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
+  - [VSCode Bazel Java extension](https://github.com/salesforce/bazel-ls-vscode) - Proof-of-concept (POC) of a Bazel Java development extension for VS Code
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 - [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
 - [georgewfraser/java-language-server](https://github.com/georgewfraser/java-language-server) - Java Language Server (LSP) with support for Bazel-built projects
