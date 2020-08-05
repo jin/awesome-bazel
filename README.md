@@ -831,6 +831,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - VSCode Support
   - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
+  - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode).  Includes syntax highlighting / flag completion for bazelrc files.  Hover support for inline builtin-function and bazel rule documentation.  [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=StackBuild.bazel-stack-vscode).
   - [VSCode Bazel Java extension](https://github.com/salesforce/bazel-ls-vscode) - Proof-of-concept (POC) of a Bazel Java development extension for VS Code
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 - [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
