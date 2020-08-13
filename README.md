@@ -74,7 +74,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/bazelbuild/rules_apple">bazelbuild/rules_apple</a></li>
           <li><a href="https://github.com/line/bazel_rules_apple">line/bazel_rules_apple</a>: LINE's custom rules for building apps and frameworks for Apple platforms</li>
           <li><a href="https://github.com/ios-bazel-users/ios-bazel-users">ios-bazel-users/ios-bazel-users</a>: Resources for using Bazel for iOS development</li>
-          <li><a href="https://github.com/thii/rules_apple_extras">thii/rules_apple_extras</a>: Extra rules for Apple platforms</li>
         </ul>
       </td>
     </tr>
