@@ -501,7 +501,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>Microsoft Azure</td>
       <td>
         <ul>
-          <li><a href="https://github.com/acqio/rules_microsoft_azure">acqio/microsoft_azure</a></li>
+          <li><a href="https://github.com/acqio/rules_microsoft_azure">acqio/rules_microsoft_azure</a></li>
         </ul>
       </td>
     </tr>
