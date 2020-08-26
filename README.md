@@ -207,6 +207,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Databricks</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/acqio/rules_databricks">acqio/rules_databricks</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Docker</td>
       <td>
         <ul>
@@ -401,7 +409,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/jflex-de/bazel_rules">jflex-de/bazel_rules</a></li>
         </ul>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td>Kotlin</td>
       <td>
@@ -416,6 +424,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_k8s">bazelbuild/rules_k8s</a></li>
+          <li><a href="https://github.com/acqio/rules_k8s_extension">acqio/rules_k8s_extension</a> Bazel rules for Kubernetes extension for creating configmaps and secrets.</li>
           <li><a href="https://github.com/adobe/rules_gitops">adobe/rules_gitops</a> A <a href="https://kustomize.io/">Kustomize</a> based GitOps workflow implementation.</li>
         </ul>
       </td>
@@ -485,6 +494,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/mdilena/bazel-maya">mdilena/bazel-maya</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Microsoft Azure</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/acqio/rules_microsoft_azure">acqio/microsoft_azure</a></li>
         </ul>
       </td>
     </tr>
@@ -690,7 +707,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/tweag/rules_sh">tweag/rules_sh</a></li>
-          <li><a href="https://github.com/filmil/bazel-bats">filmil/bazel-bats</a> 
+          <li><a href="https://github.com/filmil/bazel-bats">filmil/bazel-bats</a>
 		    (bats: bash automated testing system)</li>
         </ul>
       </td>
