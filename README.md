@@ -424,7 +424,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_k8s">bazelbuild/rules_k8s</a></li>
-          <li><a href="https://github.com/acqio/rules_k8s_extensions">acqio/rules_k8s_extensions</a> Bazel rules for Kubernetes extension for creating configmaps and secrets.</li>
+          <li><a href="https://github.com/acqio/rules_k8s_extension">acqio/rules_k8s_extension</a> Bazel rules for Kubernetes extension for creating configmaps and secrets.</li>
           <li><a href="https://github.com/adobe/rules_gitops">adobe/rules_gitops</a> A <a href="https://kustomize.io/">Kustomize</a> based GitOps workflow implementation.</li>
         </ul>
       </td>
