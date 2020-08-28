@@ -778,7 +778,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [Bazel Code Search](https://source.bazel.build) - Browse Bazel's codebase with cross references.
 - [heroku-buildpack-bazel](https://github.com/google/heroku-buildpack-bazel) - Heroku buildpack for Bazel
 - [hchauvin/bazel-coverage-report](https://github.com/hchauvin/bazel-coverage-report) - A multi-language coverage report generator for Bazel
-- [bazel-arcanist](https://github.com/igorgatis/bazel-arcanist) - Integration with Arcanist with `arc test` and `arc lint`
+- [acqio/bazel-arcanist](https://github.com/acqio/bazel-arcanist) - Integration with Arcanist with `arc test` and `arc lint`
 - [Asana/bazeltsc](https://github.com/Asana/bazeltsc) - TypeScript compiler that knows how to run as a Bazel persistent worker
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
