@@ -682,6 +682,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/google/cargo-raze">google/cargo-raze</a>: Generate Bazel BUILD files for Rust Crates</div>
           </li>
+          <li>
+            <div><a href="https://github.com/wildarch/blackjack">wildarch/blackjack</a>: Generate Bazel targets for crates.io dependencies in your Cargo.toml</div>
+          </li>
         </ul>
       </td>
     </tr>
