@@ -202,7 +202,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>Dart</td>
       <td>
         <ul>
-          <li><a href="https://github.com/dart-lang/bazel">dart-lang/bazel</a></li>
+          <li><a href="https://github.com/cbracken/rules_dart">cbracken/rules_dart</a></li>
         </ul>
       </td>
     </tr>
