@@ -909,6 +909,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [Real-world Bazel](https://github.com/cgbystrom/real-world-bazel) - BUILD files collected from public GitHub projects for reference and learning purposes.
 - [Bazel Lesson 1](https://github.com/sayrer/bazel-lesson-1) and [Bazel Lesson 2](https://github.com/sayrer/bazel-lesson-2) - Gradually build a multi-language Bazel project.
 
+#### Online courses
+- [Bazelguides](https://www.bazelguides.com)
+
 ### Projects
 
 A list of projects built with Bazel:
