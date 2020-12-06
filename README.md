@@ -816,7 +816,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 
 ### Remote caching and execution
 
-- [bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel using HTTP/1.1 with `--remote_rest_cache`
+- [bazel-remote](https://github.com/buchgr/bazel-remote) - A simple remote cache for Bazel that supports HTTP and gRPC, with optional proxy backends for S3/GCS/HTTP.
 - [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) - Self-hosted remote caching and execution service written in Java
 - [Buildbarn](https://github.com/buildbarn) - Self-hosted remote caching and execution service written in Go
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - Cloud or self-hosted remote caching and execution service written in Go, with Web UI for viewing and debugging build logs
