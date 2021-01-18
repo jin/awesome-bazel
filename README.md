@@ -102,6 +102,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Gherkin/Cucumber</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/silvergasp/rules_gherkin">silvergasp/rules_gherkin</a>: Cucumber BDD rules for bazel</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>BOSH</td>
       <td>
         <ul>
