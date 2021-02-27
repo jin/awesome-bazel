@@ -758,6 +758,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Verilog</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/Lightelligence/rules_verilog">Lightelligence/rules_verilog</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Web (HTML, CSS, JS, assets)</td>
       <td>
         <ul>
