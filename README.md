@@ -562,6 +562,15 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Packaging (RPM/DEB)</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/bazelbuild/rules_pkg">bazelbuild/rules_pkg</a></li>
+          <li><a href="https://github.com/ericnorris/rules_nfpm">ericnorris/rules_nfpm</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Pandoc</td>
       <td>
         <ul>
