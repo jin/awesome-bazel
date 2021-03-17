@@ -733,6 +733,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Spring</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/salesforce/rules_spring">salesforce/rules_spring</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Swift</td>
       <td>
         <ul>
