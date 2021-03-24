@@ -101,6 +101,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         </ul>
       </td>
     </tr>
+        <tr>
+      <td>Blender</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/zaucy/rules_blender">zaucy/rules_blender</a>: Bazel rules for rendering .blend files with Blender</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>BOSH</td>
       <td>
@@ -486,14 +494,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/menny/bazel-mvn-deps">menny/bazel-mvn-deps</a>: A simple Maven dependency graph generator for Bazel</div>
           </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Maya</td>
-      <td>
-        <ul>
-          <li><a href="https://github.com/mdilena/bazel-maya">mdilena/bazel-maya</a></li>
         </ul>
       </td>
     </tr>
