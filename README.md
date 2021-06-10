@@ -122,13 +122,12 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></li>
-        </ul>
-        <ul>
           <li><a href="https://github.com/bazelbuild/rules_cc">bazelbuild/rules_cc</a></li>
-        </ul>
-        <ul>
           <li>
             <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
+          </li>
+	  <li>
+            <div><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</div>
           </li>
         </ul>
       </td>
