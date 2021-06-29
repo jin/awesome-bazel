@@ -101,6 +101,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         </ul>
       </td>
     </tr>
+        <tr>
+      <td>Blender</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/zaucy/rules_blender">zaucy/rules_blender</a>: Bazel rules for rendering .blend files with Blender</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>BOSH</td>
       <td>
@@ -486,14 +494,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/menny/bazel-mvn-deps">menny/bazel-mvn-deps</a>: A simple Maven dependency graph generator for Bazel</div>
           </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Maya</td>
-      <td>
-        <ul>
-          <li><a href="https://github.com/mdilena/bazel-maya">mdilena/bazel-maya</a></li>
         </ul>
       </td>
     </tr>
@@ -1015,6 +1015,7 @@ Bazel demo projects:
 
 ### Books
 - [Beginning Bazel: Building and Testing for Java, Go, and More](https://www.amazon.com/Beginning-Bazel-Building-Testing-Java/dp/1484251938) - P.J. McNerney;  Apress, 1st ed. edition (December 24, 2019) 978-1484251935
+- [Core Bazel: Fast Builds For Busy People](https://www.amazon.com/Core-Bazel-Fast-Builds-People-ebook/dp/B08DXBR2TF/ref=cm_cr_arp_d_product_top?ie=UTF8) -  B. Mustiata; Amazon Kindle (July 28, 2020) ASIN: B08DXBR2TF
 
 ### Slides
 
