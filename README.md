@@ -587,6 +587,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Prometheus</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/5h4d0w4rt/rules_prometheus">5h4d0w4rt/rules_prometheus</a>: Bazel rules for managing Prometheus, including running server, running "promtool", unit testing rules, etc.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Protobuf</td>
       <td>
         <ul>
