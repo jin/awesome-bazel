@@ -361,6 +361,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/tmc/rules_helm">tmc/rules_helm</a></li>
           <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/helm">dataform-co/dataform/tools/helm</a>: Repository rules for downloading Helm charts, and BUILD rules for templating them</li>
+          <li><a href="https://github.com/masmovil/bazel-rules">helm bazel rules</a></li>  Bazel rules to install and manipulate Helm charts with Bazel		
         </ul>
       </td>
     </tr>
