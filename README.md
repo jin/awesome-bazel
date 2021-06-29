@@ -980,6 +980,7 @@ Bazel demo projects:
 
 ### Videos
 
+- [code::dive 2020: Introduction to Bazel to build C++ and Python](https://www.youtube.com/watch?v=vEQQ9QOVpdU) - Xavier Bonaventura (BMW Group)
 - [KubeCon Europe 2019: Reproducible Development and Deployment with Bazel and Telepresence](https://www.youtube.com/watch?v=tD0FIlxO1AQ) - Christian Roggia (Engel & Völkers)
 - [ScalaSphere 2018: Using Bazel to build Scala](https://www.youtube.com/watch?v=iSLDQPsWvGs) - Andy Scott (Stripe)
 - [GopherChina 2018: Bazel build //:Go](https://www.youtube.com/watch?v=oTS_xxZyhG8) - Yuan He (流利说/liulishuo.com)
@@ -1010,6 +1011,7 @@ Bazel demo projects:
 - [Bazel at the Dart Developer Summit 2016](https://www.youtube.com/watch?v=zZnGUknpFMM) - Damien Martin-Guillerez (Google)
 
 ### Podcasts
+- [Bazel; CppCast](https://cppcast.com/bazel/) Oct 16th, 2020 - Lukács Berki and Julio Merino
 - [Bazel with Tony Aiuto; Google Cloud Podcast #153](https://www.gcppodcast.com/categories/bazel/) Oct 31st, 2018 - Tony Aiuto
 - [AiA 247: Bazel with Alex Eagle; Adventures in Angular](https://player.fm/series/all-angular-podcasts-by-devchattv/aia-247-bazel-with-alex-eagle) Jul 9th, 2019 - Alex Eagle (Google)
 
