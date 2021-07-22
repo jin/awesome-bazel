@@ -985,6 +985,7 @@ Bazel demo projects:
 
 ### Videos
 
+- [Bazel Opportunities, Tradeoffs, and Rollout](https://www.youtube.com/watch?v=vYTpnTgK0Z4) - Kyle Cordes (Oasis Digital)
 - [code::dive 2020: Introduction to Bazel to build C++ and Python](https://www.youtube.com/watch?v=vEQQ9QOVpdU) - Xavier Bonaventura (BMW Group)
 - [KubeCon Europe 2019: Reproducible Development and Deployment with Bazel and Telepresence](https://www.youtube.com/watch?v=tD0FIlxO1AQ) - Christian Roggia (Engel & Völkers)
 - [ScalaSphere 2018: Using Bazel to build Scala](https://www.youtube.com/watch?v=iSLDQPsWvGs) - Andy Scott (Stripe)
