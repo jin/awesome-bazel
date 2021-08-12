@@ -275,6 +275,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Erlang</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/rabbitmq/bazel-erlang">rabbitmq/bazel-erlang</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Flex</td>
       <td>
         <ul>
