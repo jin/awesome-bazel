@@ -950,7 +950,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
   - [Migrating to Bazel Part 2](https://jayconrod.com/posts/98/migrating-to-bazel--part-2)
   - [Binary rule](https://jayconrod.com/posts/106/writing-bazel-rules--simple-binary-rule)  
   - [Library rule, depsets, providers](https://jayconrod.com/posts/107/writing-bazel-rules--library-rule--depsets--providers)  
-   - [Data and runfiles](https://jayconrod.com/posts/108/writing-bazel-rules--data-and-runfiles)
+  - [Data and runfiles](https://jayconrod.com/posts/108/writing-bazel-rules--data-and-runfiles)
   - [Execution](https://jayconrod.com/posts/109/writing-bazel-rules--moving-logic-to-execution)
   - [Repository rules](https://jayconrod.com/posts/110/writing-bazel-rules--repository-rules)   
   - [Platforms and toolchains](https://jayconrod.com/posts/111/writing-bazel-rules-platforms-and-toolchains)  
