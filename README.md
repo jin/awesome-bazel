@@ -1043,6 +1043,7 @@ Bazel demo projects:
 ### Books
 - [Beginning Bazel: Building and Testing for Java, Go, and More](https://www.amazon.com/Beginning-Bazel-Building-Testing-Java/dp/1484251938) - P.J. McNerney;  Apress, 1st ed. edition (December 24, 2019) 978-1484251935
 - [Core Bazel: Fast Builds For Busy People](https://www.amazon.com/Core-Bazel-Fast-Builds-People-ebook/dp/B08DXBR2TF/ref=cm_cr_arp_d_product_top?ie=UTF8) -  B. Mustiata; Amazon Kindle (July 28, 2020) ASIN: B08DXBR2TF
+- [Getting Started with Bazel](https://learning.oreilly.com/library/view/getting-started-with/9781492077107/) - B. Muschko; O'Reilly Media (February 2020)
 
 ### Slides
 
