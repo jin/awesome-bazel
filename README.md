@@ -861,6 +861,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - Cloud or self-hosted remote caching and execution service written in Go, with Web UI for viewing and debugging build logs
 - [BuildGrid](https://gitlab.com/BuildGrid/buildgrid) - Self-hosted remote caching and execution service written in Python
 - [Asana/bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
+- [FasterCI](https://fasterci.com/) - Continuous Integration as a service built specifically for Bazel. 60x speedup is not uncommon.
 
 ### Project generators
 
