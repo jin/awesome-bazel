@@ -966,9 +966,6 @@ Tools for generating WORKSPACE and BUILD files from source code.
   - [Platforms and toolchains](https://jayconrod.com/posts/111/writing-bazel-rules-platforms-and-toolchains)  
   - [WORKSPACE files](https://jayconrod.com/posts/115/organizing-bazel-workspace-files)
 
-#### Online courses
-- [Bazelguides](https://www.bazelguides.com)
-
 ### Projects
 
 A list of projects built with Bazel:
