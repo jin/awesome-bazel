@@ -68,6 +68,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>AppImage</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/lalten/rules_appimage">lalten/rules_appimage</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Apple (iOS, macOS, tvOS, watchOS)</td>
       <td>
         <ul>
