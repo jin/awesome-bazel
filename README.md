@@ -145,6 +145,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 	  <li>
             <div><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</div>
           </li>
+          <li><a href="https://github.com/rnburn/rules_cc_module">rnburn/rules_cc_module: Rules to build C++20 modules.</a></li>
         </ul>
       </td>
     </tr>
