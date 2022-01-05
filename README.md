@@ -837,7 +837,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
 - [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) - Framework for integration tests that call Bazel
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
-
+- [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
 
 ### Toolchains
 
