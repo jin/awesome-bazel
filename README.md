@@ -876,7 +876,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 - [blakefiler.py](https://gist.github.com/jart/082b1078a065b79949508bbe1b7d8ef0) - Generate a Makefile and tarball-able distribution using `bazel query`
 - [Lavender](https://github.com/tmandry/lavender) - Generate Visual Studio projects that uses Bazel for the actual building
-- [bazel-to-msbuild](https://github.com/sammi/bazel-to-msbuild) - Generate Visusal Studio solution and projects from bazel workspace, command line tool build by Java.
+- [bazel-to-msbuild](https://github.com/sammi/bazel-to-msbuild) - Generate Visual Studio solution and projects from bazel workspace, command line tool build by Java.
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
 - [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects.
