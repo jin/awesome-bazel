@@ -988,6 +988,7 @@ A list of projects built with Bazel:
 Bazel demo projects:
 
 - [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver): Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver).
+- [nickdecooman/bazel-rust-docker-example](https://github.com/nickdecooman/bazel-rust-docker-example): Demonstrating Bazel setup for Rust services with Cargo and Docker support.
 
 ### Articles
 
