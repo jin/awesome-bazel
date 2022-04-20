@@ -551,6 +551,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</a></li>
           <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</a></li>
           <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/gcloud">dataform-co/dataform/tools/gcloud</a>: Rules for deploying Node.js code as gcloud functions (HTTP/PubSub)</li>
+          <li><a href="https://github.com/aspect-build/rules_swc"></a>: Bazel rules for the SWC compiler<a href=https://swc.rs>swc.rs</a></li>
         </ul>
       </td>
     </tr>
@@ -792,7 +793,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>TypeScript</td>
       <td>
         <ul>
-          <li><a href="https://github.com/bazelbuild/rules_typescript">bazelbuild/rules_typescript</a></li>
+          <li><a href="https://www.npmjs.com/package/@bazel/typescript">@bazel/typescript on npm (from https://github.com/bazelbuild/rules_nodejs)</a></li>
           <li><a href="https://github.com/sconover/rules_multi_tsc">sconover/rules_multi_tsc</a>: Bazel rules that support breaking a typescript codebase into small, independently-compilable libraries.</li>
         </ul>
       </td>
@@ -835,6 +836,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
 - [philwo/bazelisk](https://github.com/philwo/bazelisk) - A user-friendly launcher for Bazel
 - [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
+- [Aspect CLI](https://aspect.build) - a wrapper around Bazel that allows interactivity and plugin extensions
 - [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) - Framework for integration tests that call Bazel
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
@@ -859,7 +861,8 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [Skydoc](https://github.com/bazelbuild/skydoc) - Starlark documentation generator
 - [Sphinx-Bazel](https://sphinx-bazel.readthedocs.io/en/latest/) - [Sphinx](http://www.sphinx-doc.org/en/master/) extension to read Bazel files to generate documentation ([GitHub](https://github.com/useblocks/sphinx-bazel))
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Starlark
-- [Bazel Common Libraries](https://github.com/google/bazel-common) - Common functionality for Google's open-source libraries that are built with Bazel.
+- [aspect_bazel_lib](https://github.com/aspect-build/bazel-lib) - More common useful functions for writing custom build rules with Starlark
+- [Bazel Common Libraries](https://github.com/google/bazel-common) - **Java-specific** Common functionality for Google's open-source libraries that are built with Bazel.
 - [Stardbg](https://github.com/laurentlb/stardbg) - A standalone debugger for Starlark
 
 ### Remote caching and execution
@@ -880,12 +883,12 @@ Tools for generating WORKSPACE and BUILD files from source code.
 - [bazel-to-msbuild](https://github.com/sammi/bazel-to-msbuild) - Generate Visual Studio solution and projects from bazel workspace, command line tool build by Java.
 - [Jadep: Java Automated Dependencies](https://github.com/bazelbuild/tools_jvm_autodeps) - Generate BUILD files automatically for an existing Java project with class dependency analysis.
 - [BUILD File Generator](https://github.com/bazelbuild/BUILD_file_generator) - Similar tool for existing Java projects.
-- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator for Go projects.
+- [Gazelle](https://github.com/bazelbuild/bazel-gazelle) - BUILD file generator with extensions for many languages. See the list of available plugins in the project README: <https://github.com/bazelbuild/bazel-gazelle#supported-languages>
 - [Pazel](https://github.com/tuomasr/pazel) - Generate Bazel BUILD files for Python
 - [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) - A project generator for Xcode projects
 - [pinterest/xchammer](https://github.com/pinterest/xchammer) - XCHammer generates Xcode projects from a Bazel Workspace
 - [create-bazel-workspace](https://github.com/jin/create-bazel-workspace) - Generate a new multi-language Bazel workspace with minimal configuration
-- [Gazelle JS Plugin](https://github.com/ecosia/bazel_rules_nodejs_contrib#build-file-generation) Generate BUILD files automatically for an existing Javascript or Typescript project with npm dependency analysis.
+- [@bazel/create](http://npmjs.com/package/@bazel/create) - Project generator for NodeJS projects
 - [llvmbzlgen](https://github.com/kythe/llvmbzlgen) - Tools for generating Bazel BUILD targets from LLVM CMakeLists
 
 ### Editors
@@ -935,6 +938,10 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 - [bazelbuild/proposals](https://github.com/bazelbuild/proposals) - Index of all design documents and proposals for Bazel.
 - [Bazel's design process](https://bazel.build/designs/index.html)
+
+### Documentation
+
+- [Bazel rules API documentation](https://docs.aspect.build), hosted by Aspect
 
 ### Tutorials
 
