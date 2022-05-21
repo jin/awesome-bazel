@@ -425,6 +425,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/fmeum/rules_jni">fmeum/rules_jni</a>: Java Native Interface (JNI) and Java Invocation API integration for Bazel</div>
           </li>
+	  <li>
+	    <div><a href="https://github.com/bazel-contrib/rules_jvm">bazel-contrib/rules_jvm</a>: Contributed Bazel rules that make working with java projects more pleasant</div>
+          </li>
         </ul>
       </td>
     </tr>
