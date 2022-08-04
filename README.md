@@ -383,6 +383,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Heroku</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/salesforce/bazoku">salesforce/bazoku</a>: Bazel rules for deploying to Heroku</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Homebrew</td>
       <td>
         <ul>
