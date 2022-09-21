@@ -914,13 +914,19 @@ Tools for generating WORKSPACE and BUILD files from source code.
 	- [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode):
 	- [brown/bazel-mode](https://github.com/brown/bazel-mode)
 - VSCode Support
-  - [bazelbuild/vscode-bazel](bazelbuild/vscode-bazel)
+  - [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel)
   - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode).  Includes syntax highlighting / flag completion for bazelrc files.  Hover support for inline builtin-function and bazel rule documentation.  [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=StackBuild.bazel-stack-vscode).
   - [stackb/bazel-stack-vscode-cc](https://github.com/stackb/bazel-stack-vscode-cc).  Supports generation of clang compilation databases.  [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=StackBuild.bazel-stack-vscode-cc).
   - [VSCode Bazel Java extension](https://github.com/salesforce/bazel-ls-vscode) - Proof-of-concept (POC) of a Bazel Java development extension for VS Code
 - [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings)
 - [sconover/rules_intellij_generate](https://github.com/sconover/rules_intellij_generate) - Plugin-less Bazel/IntelliJ integration
-- [georgewfraser/java-language-server](https://github.com/georgewfraser/java-language-server) - Java Language Server (LSP) with support for Bazel-built projects
+
+### Autocomplete for Source Code
+
+- C Language Family (C++, C, Objective-C, and Objective-C++)
+  - [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) enables autocomplete in a wide variety of extensible editors, including VSCode, Vim, Emacs, Sublime, etc.. It lets language servers, like clangd, ccls, and other tooling, draw upon Bazel’s understanding of how `cc` and `objc` code will be compiled, including, e.g., how it will configure cross compilation for other platforms.
+- Java
+  - [georgewfraser/java-language-server](https://github.com/georgewfraser/java-language-server) - Java Language Server (LSP) with support for Bazel-built projects
 
 ### BUILD file tools
 
