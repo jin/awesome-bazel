@@ -1008,7 +1008,7 @@ Bazel demo projects:
 
 - [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver): Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver).
 - [nickdecooman/bazel-rust-docker-example](https://github.com/nickdecooman/bazel-rust-docker-example): Demonstrating Bazel setup for Rust services with Cargo and Docker support.
-- [kriscfoster/multi-language-bazel-monorepo](https://github.com/kriscfoster/multi-language-bazel-monorepo): Bazel monorepo that includes demo golang, python and javascript libraries, binaries and Docker image targets.
+- [kriscfoster/multi-language-bazel-monorepo](https://github.com/kriscfoster/multi-language-bazel-monorepo): Bazel monorepo that includes example golang, python and javascript libraries, binaries and Docker image targets.
 
 ### Articles
 
