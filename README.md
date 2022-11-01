@@ -142,6 +142,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
           </li>
+          <li>
+            <div><a href="https://github.com/hedronvision/bazel-make-cc-https-easy">hedronvision/bazel-make-cc-https-easy</a>: Rules that make HTTPS requests from C++ easy, using cpr and libcurl</div>
+          </li>
 	  <li>
             <div><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</div>
           </li>
