@@ -1,7 +1,7 @@
 # Awesome Bazel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-	<img height="300" src="https://bazel.build/images/bazel-icon.svg">
+	<img height="300" src="https://raw.githubusercontent.com/bazelbuild/bazel-blog/master/images/bazel-icon.svg">
 </p>
 <h3 align="center">{Fast, Correct} - Choose two</h3>
 
