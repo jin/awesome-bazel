@@ -139,16 +139,11 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://docs.bazel.build/versions/master/be/c-cpp.html">https://docs.bazel.build/versions/master/be/c-cpp.html</a></li>
           <li><a href="https://github.com/bazelbuild/rules_cc">bazelbuild/rules_cc</a></li>
-          <li>
-            <div><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</div>
-          </li>
-          <li>
-            <div><a href="https://github.com/hedronvision/bazel-make-cc-https-easy">hedronvision/bazel-make-cc-https-easy</a>: Rules that make HTTPS requests from C++ easy, using cpr and libcurl</div>
-          </li>
-	  <li>
-            <div><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</div>
-          </li>
-          <li><a href="https://github.com/rnburn/rules_cc_module">rnburn/rules_cc_module: Rules to build C++20 modules.</a></li>
+          <li><a href="https://github.com/nelhage/rules_boost">nelhage/rules_boost</a>: Rules for Boost C++ libraries</li>
+          <li><a href="https://github.com/hedronvision/bazel-make-cc-https-easy">hedronvision/bazel-make-cc-https-easy</a>: Rules that make HTTPS requests from C++ easy, using cpr and libcurl</li>
+          <li><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</li>
+          <li><a href="https://github.com/rnburn/rules_cc_module">rnburn/rules_cc_module</a>: Rules to build C++20 modules.</li>
+          <li><a href="https://github.com/vertexwahn/rules_qt6">vertexwahn/rules_qt6</a>: Bazel rules for Qt6</li>
         </ul>
       </td>
     </tr>
