@@ -236,6 +236,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
     <tr>
       <td>Docker</td>
       <td>
+        <em>Note: see the OCI containers section below</em>
         <ul>
           <li>
             <a href="https://github.com/bazelbuild/rules_docker">bazelbuild/rules_docker</a>
@@ -565,7 +566,17 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/vistarmedia/rules_js">vistarmedia/rules_js</a></li>
           <li><a href="https://github.com/thelgevold/rules_svelte">thelgevold/rules_svelte</a></li>
           <li><a href="https://github.com/dataform-co/dataform/tree/master/tools/gcloud">dataform-co/dataform/tools/gcloud</a>: Rules for deploying Node.js code as gcloud functions (HTTP/PubSub)</li>
-          <li><a href="https://github.com/aspect-build/rules_swc"></a>: Bazel rules for the SWC compiler<a href=https://swc.rs>swc.rs</a></li>
+          <li><a href="https://github.com/aspect-build/rules_js">aspect_rules_js</a>: Bazel rules for building JavaScript programs</li>
+          <li><a href="https://github.com/aspect-build/rules_esbuild">aspect_rules_esbuild</a>: Bazel rules for the <a href="https://</esbuild.github.io">esbuild</a> JS bundler</li>
+          <li><a href="https://github.com/aspect-build/rules_terser">aspect_rules_terser</a>: Bazel rules for <a href="https://terser.org">Terser</a> - a JavaScript minifier</li>
+          <li><a href="https://github.com/aspect-build/rules_swc">aspect_rules_swc</a>: Bazel rules for <a href="https://swc.rs">swc</a></li>
+          <li><a href="https://github.com/aspect-build/rules_ts">aspect_rules_ts</a>: Bazel rules for <a href="http://typescriptlang.org">TypeScript</a></li>
+          <li><a href="https://github.com/aspect-build/rules_webpack">aspect_rules_webpack</a>: Bazel rules for <a href="https://webpack.js.org">Webpack</a></li>
+          <li><a href="https://github.com/aspect-build/rules_rollup">aspect_rules_rollup</a>: Bazel rules for <a href="https://rollupjs.org">Rollup</a> - a JavaScript bundler</li>
+          <li><a href="https://github.com/aspect-build/rules_jest">aspect_rules_jest</a>: Bazel rules to run tests using <a href="https://jestjs.io">Jest</a></li>
+          <li><a href="https://github.com/aspect-build/rules_jasmine">aspect_rules_jasmine</a>: Bazel rules to run tests using <a href="https://jasmine.github.io">Jasmine</a></li>
+          <li><a href="https://github.com/aspect-build/rules_cypress">aspect_rules_cypress</a>: Bazel rules to run tests using <a href="https://cypress.io">Cypress</a></li>
+          <li><a href="https://github.com/aspect-build/rules_deno">aspect_rules_deno</a>: Bazel rules for <a href="http://deno.land">Deno</a></li>
         </ul>
       </td>
     </tr>
@@ -583,6 +594,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/guymers/bazel_rules_container">guymers/bazel_rules_container</a></li>
           <li><a href="https://github.com/guymers/containers_by_bazel">guymers/containers_by_bazel</a></li>
+          <li>
+            <a href="https://github.com/bazel-contrib/rules_oci">bazel-contrib/rules_oci</a>: Bazel rules for building OCI containers
+          </li>
+
         </ul>
       </td>
     </tr>
@@ -684,6 +699,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
          <li>
             <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support (Unmaintained)</div>
          </li>
+         <li><a href="https://github.com/aspect-build/rules_py">aspect_rules_py</a>: Bazel rules for running Python tools and building Python projects</li>
         </ul>
       </td>
     </tr>
@@ -850,10 +866,11 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
 - [philwo/bazelisk](https://github.com/philwo/bazelisk) - A user-friendly launcher for Bazel
 - [bzl-io/bzl](https://github.com/bzl-io/bzl) - a wrapper around the bazel build tool to extend its functionality
-- [Aspect CLI](https://aspect.build) - a wrapper around Bazel that allows interactivity and plugin extensions
+- [Aspect CLI](https://aspect.build/cli) - a wrapper around Bazel that allows interactivity and plugin extensions
 - [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) - Framework for integration tests that call Bazel
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
+- [bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic aggregation formatter to format code in most languages
 
 ### Toolchains
 
