@@ -597,7 +597,6 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li>
             <a href="https://github.com/bazel-contrib/rules_oci">bazel-contrib/rules_oci</a>: Bazel rules for building OCI containers
           </li>
-
         </ul>
       </td>
     </tr>
