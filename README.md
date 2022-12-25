@@ -854,6 +854,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) - Framework for integration tests that call Bazel
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
+- [bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) - View differences between two different aquery invocations.
 
 ### Toolchains
 
