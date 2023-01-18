@@ -63,7 +63,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_android">bazelbuild/rules_android</a></li>
-          <li><a href="https://github.com/quittle/bazel_android_sdk_downloader">quittle/bazel_android_sdk_downloader</a></li>: Drop-in replacement for android_sdk_repository to automatically download the Android SDK.
+	  <li><a href="https://github.com/bazelbuild/rules_android_ndk">bazelbuild/rules_android_ndk</a>: Starlark rules replacing the built-in NDK rules that with more modern NDKs</li>
+          <li><a href="https://github.com/quittle/bazel_android_sdk_downloader">quittle/bazel_android_sdk_downloader</a>: Drop-in replacement for android_sdk_repository to automatically download the Android SDK.</li>
         </ul>
       </td>
     </tr>
