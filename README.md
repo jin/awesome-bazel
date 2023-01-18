@@ -870,6 +870,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
 - [bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic aggregation formatter to format code in most languages
+- [bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) - View differences between two different aquery invocations.
 
 ### Toolchains
 
