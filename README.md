@@ -415,6 +415,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>ISPC</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/Vertexwahn/rules_ispc">vertexwahn/rules_ispc</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Java</td>
       <td>
         <ul>
