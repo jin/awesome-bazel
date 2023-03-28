@@ -1036,6 +1036,7 @@ Bazel demo projects:
 - [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver): Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver).
 - [nickdecooman/bazel-rust-docker-example](https://github.com/nickdecooman/bazel-rust-docker-example): Demonstrating Bazel setup for Rust services with Cargo and Docker support.
 - [kriscfoster/multi-language-bazel-monorepo](https://github.com/kriscfoster/multi-language-bazel-monorepo): Bazel monorepo that includes example golang, python and javascript libraries, binaries and Docker image targets.
+- [ekhabarov/bazel-k8s-envoy](https://github.com/ekhabarov/bazel-k8s-envoy): Build Go gRPC micoservices with Bazel and deploy them to k8s.
 
 ### Articles
 
@@ -1109,6 +1110,7 @@ Bazel demo projects:
 
 - [Official Bazel Blog](https://blog.bazel.build)
 - [Kristina Chodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
+- [Envoy as an API Gateway](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - Build Go microservices with Bazel.
 
 ### Community
 
