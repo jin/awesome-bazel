@@ -122,7 +122,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>BOSH</td>
       <td>
         <ul>
-          <li><a href="https://github.com/xoebus/rules_bosh">xoebus/rules_bosh</a></li>
+          <li><a href="https://github.com/calebfroese/rules_bosh">calebfroese/rules_bosh</a></li>
         </ul>
       </td>
     </tr>
