@@ -643,6 +643,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>
         <ul>
           <li><a href="https://github.com/5h4d0w4rt/rules_prometheus">5h4d0w4rt/rules_prometheus</a>: Bazel rules for managing Prometheus, including running server, running "promtool", unit testing rules, etc.</li>
+		<li><a href="https://github.com/zacker330/rules_prometheus">zacker330/rules_prometheus</a>:Bazel rules for verifing and testing the configurations of Prometheus and Alertmanager.</li>
         </ul>
       </td>
     </tr>
