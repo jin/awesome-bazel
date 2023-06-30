@@ -876,6 +876,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
 - [bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic aggregation formatter to format code in most languages
 - [bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) - View differences between two different aquery invocations.
+- [Bazel Steward](https://virtuslab.github.io/bazel-steward/) - Automate external dependency updates (Rules, Maven, Bazel itself)
 
 ### Toolchains
 
