@@ -471,6 +471,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/bazelbuild/rules_k8s">bazelbuild/rules_k8s</a></li>
           <li><a href="https://github.com/acqio/rules_k8s_extension">acqio/rules_k8s_extension</a> Bazel rules for Kubernetes extension for creating configmaps and secrets.</li>
           <li><a href="https://github.com/adobe/rules_gitops">adobe/rules_gitops</a> A <a href="https://kustomize.io/">Kustomize</a> based GitOps workflow implementation.</li>
+	  <li><a href="https://github.com/ebay/rules_ytt">eBay/rules_ytt</a>: Bazel rules for <a href="https://carvel.dev/ytt/">YAML templating tool (ytt)</a>.</li>
         </ul>
       </td>
     </tr>
