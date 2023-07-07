@@ -145,6 +145,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
           <li><a href="https://github.com/erenon/bazel_clang_tidy">erenon/bazel_clang_tidy</a>: Run clang-tidy directly from bazel</li>
           <li><a href="https://github.com/rnburn/rules_cc_module">rnburn/rules_cc_module</a>: Rules to build C++20 modules.</li>
           <li><a href="https://github.com/vertexwahn/rules_qt6">vertexwahn/rules_qt6</a>: Bazel rules for Qt6</li>
+	  <li><a href="https://github.com/kklochkov/rules_qt">kklochkov/rules_qt</a>: Rules for Qt5 and Qt6</li>
         </ul>
       </td>
     </tr>
