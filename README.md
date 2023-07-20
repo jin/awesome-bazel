@@ -887,7 +887,7 @@ Toolchains enable authors to decouple their rule logic from platform-based selec
 - [bazelbuilds/bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) -  Bazel toolchain configurations to enable Google Cloud Remote Build Execution via Docker containers
 - [vsco/bazel-toolchains](https://github.com/vsco/bazel-toolchains) - A collection of Bazel C++ build infrastructure based on Chromium's LLVM toolchain
 - [grailbio/bazel-toolchain](https://github.com/grailbio/bazel-toolchain) - LLVM toolchain for bazel
-- [silvergasp/bazel-embedded](https://github.com/silvergasp/bazel-embedded) - Set of bazel toolchains and tools, for compiling and uploading to embedded targets
+- [bazelembedded/bazel-embedded](https://github.com/bazelembedded/bazel-embedded) - Set of bazel toolchains and tools, for compiling and uploading to embedded targets
 
 ### Starlark
 
