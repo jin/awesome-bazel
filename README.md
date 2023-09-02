@@ -495,6 +495,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Lua Rules</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/svermeulen/lua_bazel_rules">svermeulen/lua_bazel_rules</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>M4</td>
       <td>
         <ul>
