@@ -72,7 +72,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       <td>AppImage</td>
       <td>
         <ul>
-          <li><a href="https://github.com/lalten/rules_appimage">lalten/rules_appimage</a></li>
+          <li><a href="https://github.com/lalten/rules_appimage">lalten/rules_appimage</a>: Create portable Linux applications by bundling a binary target and all its runfiles into a self-contained AppImage binary package</li>
         </ul>
       </td>
     </tr>
