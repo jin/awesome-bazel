@@ -714,6 +714,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
             <div><a href="https://github.com/TriggerMail/rules_pyz">TriggerMail/rules_pyz</a>: Python rules with PyPI package support (Unmaintained)</div>
          </li>
          <li><a href="https://github.com/aspect-build/rules_py">aspect_rules_py</a>: Bazel rules for running Python tools and building Python projects</li>
+         <li><a href="https://github.com/stackb/pycross_image">stackb/pycross_image</a>: Bazel rules for building/cross-compiling container images for python apps</li>
         </ul>
       </td>
     </tr>
@@ -893,7 +894,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [renovate](https://github.com/renovatebot/renovate) - Automate WORKSPACE dependencies updates
 - [bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic aggregation formatter to format code in most languages
-- [bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) - View differences between two different aquery invocations.
+- [stackb/bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) - View differences between two different aquery invocations.
 - [Bazel Steward](https://virtuslab.github.io/bazel-steward/) - Automate external dependency updates (Rules, Maven, Bazel itself)
 
 ### Toolchains
