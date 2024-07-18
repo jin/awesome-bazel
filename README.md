@@ -866,6 +866,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>Zig</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/aherrmann/rules_zig">aherrmann/rules_zig</a>: Bazel rules for <a href="https://ziglang.org">Zig</a>.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
