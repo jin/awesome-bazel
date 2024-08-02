@@ -922,6 +922,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 - [Language description](https://github.com/bazelbuild/starlark/)
 - [Starlark in Go](https://github.com/google/skylark)
 - [Starlark in Rust](https://github.com/google/starlark-rust)
+- [Starlet](https://github.com/1set/starlet) - Go wrapper for [Starlark in Go](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 - [Stardoc](https://github.com/bazelbuild/stardoc) - Starlark documentation generator
 - [Sphinx-Bazel](https://sphinx-bazel.readthedocs.io/en/latest/) - [Sphinx](http://www.sphinx-doc.org/en/master/) extension to read Bazel files to generate documentation ([GitHub](https://github.com/useblocks/sphinx-bazel))
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions for writing custom build rules with Starlark
