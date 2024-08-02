@@ -912,6 +912,8 @@ Toolchains enable authors to decouple their rule logic from platform-based selec
 - [vsco/bazel-toolchains](https://github.com/vsco/bazel-toolchains) - A collection of Bazel C++ build infrastructure based on Chromium's LLVM toolchain
 - [grailbio/bazel-toolchain](https://github.com/grailbio/bazel-toolchain) - LLVM toolchain for bazel
 - [bazelembedded/bazel-embedded](https://github.com/bazelembedded/bazel-embedded) - Set of bazel toolchains and tools, for compiling and uploading to embedded targets
+- [hexdae/bazel-arm-none-eabi](https://github.com/hexdae/bazel-arm-none-eabi) - embedded ARM toolchain
+- [hexdae/toolchains_riscv_gnu](https://github.com/hexdae/toolchains_riscv_gnu) - RISC-V toolchain
 - [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux
 
 ### Starlark
