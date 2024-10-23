@@ -1142,7 +1142,7 @@ Bazel demo projects:
 ### Blogs
 
 - [Official Bazel Blog](https://blog.bazel.build)
-- [Kristina Chodorow's blogposts on Bazel](https://www.kchodorow.com/blog/category/bazel)
+- [Kristina Chodorow's blogposts on Bazel](https://kchodorow.com/category/bazel/)
 - [Envoy as an API Gateway](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - Build Go microservices with Bazel.
 
 ### Community
