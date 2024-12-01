@@ -671,6 +671,9 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
         <ul>
           <li><a href="https://github.com/bazelbuild/rules_proto">bazelbuild/rules_proto</a>: Starlark implementation of the Protobuf rules in Bazel</li>
         </ul>
+        <ul>
+          <li><a href="https://github.com/thesayyn/protoc-gen-ts">thesayyn/protoc-gen-ts</a>TypeScript generator with first-class bazel rules.</li>
+        </ul>
       </td>
     </tr>
     <tr>
