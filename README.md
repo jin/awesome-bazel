@@ -561,6 +561,14 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+      <td>Nim</td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/kczulko/rules_nim">kczulko/rules_nim</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Nixpkgs</td>
       <td>
         <ul>
