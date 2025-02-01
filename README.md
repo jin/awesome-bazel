@@ -1061,6 +1061,7 @@ A list of projects built with Bazel:
 - [google/startup-os](https://github.com/google/startup-os) - Working examples of Google's Open Source tools and Cloud.
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 - [squzy/squzy](https://github.com/squzy/squzy) - is a high-performance open-source monitoring system written in Golang with Bazel. Using Bazel for testing, building and dockerize.
+- [KevinAo22/bazel-cpp-example](https://github.com/KevinAo22/bazel-cpp-example): Building a cross-platform C++ program with Bazel
 
 ### Demos
 
