@@ -324,10 +324,10 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
-      <td>Graal</td>
+      <td>GraalVM</td>
       <td>
         <ul>
-          <li><a href="https://github.com/andyscott/rules_graal">andyscott/rules_graal</a></li>
+          <li><a href="https://github.com/sgammon/rules_graalvm">sgammon/rules_graalvm</a></li>
         </ul>
       </td>
     </tr>
