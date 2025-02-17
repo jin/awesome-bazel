@@ -324,6 +324,16 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
       </td>
     </tr>
     <tr>
+    <td>Google Cloud</td>
+    <td>
+        <ul>
+          <li>
+            <div><a href="https://github.com/tweag/rules_gcs">tweag/rules_gcs</a>: Download files from Google Cloud Storage (gcs)</div>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>Graal</td>
       <td>
         <ul>
@@ -1002,6 +1012,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 ### <a name="misc-tooling"></a>Misc
 
 - [salesforce/bazel-maven-proxy](https://github.com/salesforce/bazel-maven-proxy/) - A local proxy to access Maven resources behind secure repositories or from the local repo
+- [tweag/credential-helper](https://github.com/tweag/credential-helper) - A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec.
 
 ## Resources
 
