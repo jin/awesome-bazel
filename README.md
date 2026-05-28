@@ -1082,6 +1082,7 @@ Bazel demo projects:
 - [Managing a Go monorepo with Bazel](https://filipnikolovski.com/posts/managing-go-monorepo-with-bazel/) - Filip Nikolovski (InPlayer)
 - [How to Create a Persistent Worker for Bazel](https://medium.com/@mmorearty/how-to-create-a-persistent-worker-for-bazel-7738bba2cabb) - Mike Morearty (Asana)
 - [We Switched from Maven to Bazel and Builds Got 10x Faster](https://redfin.engineering/we-switched-from-maven-to-bazel-and-builds-got-10x-faster-b265a7845854) - Jason Lunz (Redfin)
+- [Fast builds, secure builds. Choose two](https://stripe.dev/blog/fast-secure-builds-choose-two) - Sushain Cherivirala (Stripe)
 - [Angular Bazel Build With Dev Server](http://www.syntaxsuccess.com/viewarticle/angular-bazel-build-with-dev-server) - Torgeir "Tor" Helgevold
 - [Bazel Conference 2017](https://medium.com/@justin_16029/bazel-conference-2017-85a4f397d69c) - Justin Poehnelt
 - [What Angular is doing with Bazel and Closure](https://medium.com/@Jakeherringbone/what-angular-is-doing-with-bazel-and-closure-21f526f64a34)
